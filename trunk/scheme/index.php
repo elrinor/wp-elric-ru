@@ -7,10 +7,12 @@
 			<?php include(TEMPLATEPATH . '/multi-post.php'); ?>
 		<?php endwhile; ?>
 		
+		<!--
 		<ul>
 			<li><?php next_posts_link('&laquo; Older Entries') ?></li>
 			<li><?php previous_posts_link('Newer Entries &raquo;') ?></li>
 		</ul>
+		-->
 		
 	<?php else : ?>
 
