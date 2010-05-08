@@ -58,7 +58,10 @@ a img { border:none; } /* Gets rid of IE's blue borders */
 ::-moz-selection { background: #C44600; color: white; }*/
 body, input                            { font: 14px Georgia,Palatino,'Palatino Linotype',Times,'Times New Roman',serif; color: #000000; }
 h1, h2, h3, h5, h5, h6                 { font-weight:bold; } 
-p                                      { margin: 0em 0px 1em; text-indent: 30px; }
+p                                      { margin: 1em 0px 0px; text-indent: 1em; }
+p:first-child                          { margin: 0px; }
+.main-content-box ul li                { list-style: disc inside; }
+.main-content-box ol li                { list-style: decimal inside; }
 .main-content-box a, 
 .widget-content-box a                  { color: #800000; white-space: nowrap; 
 										 border: 1px solid transparent; }
@@ -238,10 +241,12 @@ body                                  { height: 100%; width: auto; min-width: 96
  */
 #commentform label                     { display: block; } 
 #commentform #xhtml-note               { font-size: 12px; }
-#commentform li                        { margin-bottom: 10px; }
+#commentform li                        { margin-bottom: 10px; list-style: none; }
+
+
 
 /*
- * FOR USER IN POSTS.
+ * FOR USE IN POSTS.
  */
 .left-photo-box                        { float: left; text-align: left; padding: 10px; margin: 10px 10px 10px 0px; background-color: #FFE0B5; text-indent: 0px; 
 										 -moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; font-size: 10px; 
@@ -259,6 +264,8 @@ body                                  { height: 100%; width: auto; min-width: 96
 .right-photo-box a img                 { border: 1px solid #000000; }
 
 .famous-quote                          { text-align:right; font-style:italic; }
+
+
 
 
 /* Font stack options
