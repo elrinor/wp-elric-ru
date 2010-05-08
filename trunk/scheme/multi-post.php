@@ -5,7 +5,7 @@
 		</div>
 		
 		<div class="multi-post-date-box">
-			<?php the_time('[d.m.Y | H:i]') ?>
+			[<?php the_date(); ?> | <?php the_time(); ?>]
 		</div>
 		
 		<div class="alignclear"></div>

@@ -2,7 +2,7 @@
 	if (is_single() && count($posts) == 1) {
 		$post = $posts[0];
 		global $content_date;
-		$content_date = date('[d.m.Y | H:i]', strtotime($post->post_date));
+		$content_date = date('[' . get_option('date_format') . ' | ' . get_option('time_format') . ']', strtotime($post->post_date));
 	}
 ?>
 
