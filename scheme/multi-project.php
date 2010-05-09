@@ -33,8 +33,7 @@
 
 	<div class="multi-post-bottom-bar">
 		<div class="multi-post-links-box">
-			<?php edit_post_link('Edit', '', ' | '); ?> 
-			<?php comments_popup_link('No Comments &#187;', '1 Comment &#187;', '% Comments &#187;'); ?>
+			<?php edit_post_link('Edit', '', ''); ?> 
 		</div>
 		
 		<div class="alignclear"></div>

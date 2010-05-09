@@ -61,10 +61,13 @@ h1, h2, h3, h5, h5, h6                 { font-weight:bold; }
 p                                      { margin-bottom: 1em; text-indent: 1em; }
 p + ul, 
 p + ol,
-div + p,
+p + div + p,
+p + div + div + p,
+p + div + div + div + p,
 p + p, 
 ul + p, 
 ol + p                                 { margin-top: 1em; margin-bottom: 0px; }
+
 
 .main-content-box ul li                { list-style: disc; margin-top: 1em; margin-left: 1em; }
 .main-content-box ol li                { list-style: decimal; margin-top: 1em; margin-left: 1em; }

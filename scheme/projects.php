@@ -35,6 +35,11 @@ Template Name: Projects
 	?>
 		<?php include(TEMPLATEPATH . '/multi-project.php'); ?>
 	<?php } ?>
+	
+	<?php 
+		/* Clear the mess. */
+		the_post(); 
+	?>
 <?php include(TEMPLATEPATH . '/content-outro.php'); ?>
 
 <?php get_sidebar(); ?>

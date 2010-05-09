@@ -53,7 +53,6 @@
         
 		$text = $text."/";
         $text = substr($text, 0, $len);
-        $text = substr($text, 0, max(strrpos($text, '/'), strrpos($text, '.')));
         $text = $text."...";
         
 		return $text;
