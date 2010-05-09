@@ -1,20 +1,22 @@
 <?php
-	if (is_single() && count($posts) == 1) {
+	if (count($posts) == 1) {
 		$post = $posts[0];
 		global $content_links;
 		
-		/* Add RSS link. */
-		if ('open' == $post->comment_status) {
-			if (strlen($content_links) > 0 )
-					$content_links = ' | ' . $content_links;
-			$content_links = '<a href="' . get_post_comments_feed_link() . '">RSS 2.0</a>';
-		}
+		if (!is_page()) {
+			/* Add RSS link. */
+			if ('open' == $post->comment_status) {
+				if (strlen($content_links) > 0 )
+						$content_links = ' | ' . $content_links;
+				$content_links = '<a href="' . get_post_comments_feed_link() . '">RSS 2.0</a>';
+			}
 
-		/* Add trackback link. */
-		if ('open' == $post->ping_status) {
-			if(strlen($content_links) > 0 )
-				$content_links = ' | ' . $content_links;
-			$content_links = '<a href="' . get_trackback_url() . '" rel="trackback">Trackback</a>' . $content_links;
+			/* Add trackback link. */
+			if ('open' == $post->ping_status) {
+				if(strlen($content_links) > 0 )
+					$content_links = ' | ' . $content_links;
+				$content_links = '<a href="' . get_trackback_url() . '" rel="trackback">Trackback</a>' . $content_links;
+			}
 		}
 
 		/* Add edit link. */
