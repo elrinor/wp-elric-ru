@@ -47,6 +47,54 @@
 	</div>
 <?php }} ?>
 
+<?php
+    function shorten_link($text) {
+        $len = 25;
+        
+		$text = $text."/";
+        $text = substr($text, 0, $len);
+        $text = substr($text, 0, max(strrpos($text, '/'), strrpos($text, '.')));
+        $text = $text."...";
+        
+		return $text;
+    }
+?>
+
+<?php
+	$project_page = get_post_meta(get_the_ID(), 'project_page', true);
+	$repository = get_post_meta(get_the_ID(), 'repository', true);
+	if ($project_page != false || $repository != false) {
+?>
+	<div class="widget">
+		<div class="widget-top-bar">
+			<div class="widget-header-box">
+				Project Information
+			</div>
+		</div>
+		<div class="widget-content-box">
+			<?php if ($project_page != false) { ?>
+				<p>
+					Project page: <br/>
+					<a href="<?php echo $project_page; ?>" title="<?php echo $project_page; ?>">
+						<?php echo shorten_link($project_page); ?>
+					</a>
+				</p>
+			<?php } ?>
+			<?php if ($repository != false) { ?>
+				<p>
+					Repository: <br/>
+					<a href="<?php echo $repository; ?>" title="<?php echo $repository; ?>">
+						<?php echo shorten_link($repository); ?>
+					</a>
+				</p>
+			<?php } ?>
+		</div>
+		<div class="widget-bottom-bar">
+		</div>
+	</div>
+<?php		
+	}
+?>
 
 <!--
 		<ul>

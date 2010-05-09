@@ -7,6 +7,8 @@
 			<!-- <h1><?php the_title(); ?></h1> -->
 
 			<?php the_content('<p>Read the rest of this entry &raquo;</p>'); ?>
+			
+			<div class="alignclear"></div>
 
 			<?php wp_link_pages(array('before' => '<p><strong>Pages:</strong> ', 'after' => '</p>', 'next_or_number' => 'number')); ?>
 		</div>
