@@ -62,7 +62,8 @@
 <?php
 	$project_page = get_post_meta(get_the_ID(), 'project_page', true);
 	$repository = get_post_meta(get_the_ID(), 'repository', true);
-	if ($project_page != false || $repository != false) {
+	$license = get_post_meta(get_the_ID(), 'license', true);
+	if ($project_page != false || $repository != false || $license != false) {
 ?>
 	<div class="widget">
 		<div class="widget-top-bar">
@@ -85,6 +86,18 @@
 					<a href="<?php echo $repository; ?>" title="<?php echo $repository; ?>">
 						<?php echo shorten_link($repository); ?>
 					</a>
+				</p>
+			<?php } ?>
+			<?php if ($license != false) { ?>
+				<p>
+					License: <br/>
+					<?php if ($license == 'LGPLv3' || $license == 'LGPL') { ?>
+						<a href="http://www.gnu.org/licenses/lgpl.html">LGPL</a>
+					<?php } elseif ($license == 'GPL' || $license == 'GPLv3') { ?>
+						<a href="http://www.gnu.org/licenses/gpl.html">GPLv3</a>
+					<?php } else { ?>
+						<?php echo $license ?>
+					<?php } ?>
 				</p>
 			<?php } ?>
 		</div>
