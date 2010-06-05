@@ -95,6 +95,8 @@
 						<a href="http://www.gnu.org/licenses/lgpl.html">LGPL</a>
 					<?php } elseif ($license == 'GPL' || $license == 'GPLv3') { ?>
 						<a href="http://www.gnu.org/licenses/gpl.html">GPLv3</a>
+					<?php } elseif ($license == 'MIT') { ?>
+						<a href="http://en.wikipedia.org/wiki/MIT_License">MIT</a>
 					<?php } else { ?>
 						<?php echo $license ?>
 					<?php } ?>
@@ -105,6 +107,26 @@
 		</div>
 	</div>
 <?php		
+	}
+?>
+
+<?php
+	$downloads = get_post_meta(get_the_ID(), 'downloads', true);
+	if ($downloads != false) {
+?>
+	<div class="widget">
+		<div class="widget-top-bar">
+			<div class="widget-header-box">
+				Downloads
+			</div>
+		</div>
+		<div class="widget-content-box">
+			<?php echo $downloads; ?>
+		</div>
+		<div class="widget-bottom-bar">
+		</div>
+	</div>
+<?php
 	}
 ?>
 

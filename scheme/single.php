@@ -4,8 +4,6 @@
 	<?php if (have_posts()) : while (have_posts()) : the_post(); ?>
 
 		<div class="single-post" id="post-<?php the_ID(); ?>">
-			<!-- <h1><?php the_title(); ?></h1> -->
-
 			<?php the_content('<p>Read the rest of this entry &raquo;</p>'); ?>
 			
 			<div class="alignclear"></div>

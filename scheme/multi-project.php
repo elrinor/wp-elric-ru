@@ -14,6 +14,8 @@
 				Ongoing
 			<?php } elseif($is_finished == -1) { ?>
 				Dropped
+			<?php } elseif($is_finished == -2) { ?>
+				On Hold
 			<?php } ?>
 		</div>
 		

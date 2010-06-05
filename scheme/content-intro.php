@@ -9,7 +9,7 @@
 <div class="main-box">
 	<div id="menu-bar">
 		<ul id="main-menu">
-			<?php wp_list_pages('title_li=&include=' . $about_page_id . ',' . $contact_page_id . ',' . $blog_page_id) ?>
+			<?php wp_list_pages('title_li=&include=' . $home_page_id . ',' . $about_page_id . ',' . $contact_page_id . ',' . $blog_page_id) ?>
 		</ul>
 		
 		<ul id="extra-menu">
@@ -28,7 +28,8 @@
 				if(class_exists('bcn_breadcrumb_trail')) {
 					/* http://mtekk.weblogs.us/code/breadcrumb-navxt/breadcrumb-navxt-doc/2/ */
 					$breadcrumb_trail = new bcn_breadcrumb_trail;
-					$breadcrumb_trail->opt['home_title'] = 'Home';
+					$breadcrumb_trail->opt['home_display'] = false;
+					//$breadcrumb_trail->opt['home_title'] = 'Home';
 					$breadcrumb_trail->opt['separator'] = ' | ';
 					$breadcrumb_trail->opt['current_item_prefix'] = '<span class="main-breadcrumb-box-current">';
 					$breadcrumb_trail->opt['current_item_suffix'] = '</span>';
