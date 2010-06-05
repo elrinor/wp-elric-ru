@@ -25,7 +25,7 @@
 	<div class="multi-post-content-box">
 		<?php 
 			global $more; 
-			$more = false;
+			$more = false; /* This makes the_content display only the intro part of the page (before 'see-more'). */
 			the_content('Details &raquo;');
 			$more = true; 
 		?>
