@@ -11,7 +11,7 @@
 					</div>
 					<div id="powered-box" class="footer-box">
 						<h1>Powered by</h1>
-						<p><?php bloginfo('name'); ?> is proudly powered by <a href="http://wordpress.org/">WordPress&nbsp;<?php bloginfo('version'); ?></a> 
+						<p><?php bloginfo('name'); ?> is proudly powered by <a href="http://wordpress.org/">WordPress&nbsp;<?php bloginfo('version'); ?></a> </p>
 					</div>
 
 					<!--

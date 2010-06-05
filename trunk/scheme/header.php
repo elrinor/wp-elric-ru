@@ -1,11 +1,13 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" <?php language_attributes(); ?>>
 	<?php
+		global $home_page_id;
 		global $about_page_id;
 		global $contact_page_id;
 		global $blog_page_id;
 		global $projects_page_id;
 		global $cv_page_id;
+		$home_page_id     = 5;
 		$about_page_id    = 2;
 		$contact_page_id  = 11;
 		$blog_page_id     = 8;
@@ -53,6 +55,8 @@
 		<![endif]-->
 
 		<?php wp_head(); ?>
+
+		<?php include(TEMPLATEPATH . '/googletracking.php'); ?>
 
 	</head>
 
