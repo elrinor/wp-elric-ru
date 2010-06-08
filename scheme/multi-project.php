@@ -23,14 +23,39 @@
 	</div>
 
 	<div class="multi-post-content-box">
+		<?php  
+			$icon_link = get_post_meta(get_the_ID(), 'icon_link', true);
+			if ($icon_link) {
+		?>
+		<table class="multi-project-table">
+			<tbody>
+				<tr>
+					<td class="multi-project-td multi-project-icon-box">
+						<a href="<?php the_permalink(); ?>">
+							<img title="<?php the_title(); ?>" alt="<?php the_title(); ?>" src="<?php echo $icon_link; ?>">
+						</a>
+					</td>
+					<td class="multi-project-td">
 		<?php 
+			}
+			
 			global $more; 
 			$more = false; /* This makes the_content display only the intro part of the page (before 'see-more'). */
 			the_content('Details &raquo;');
 			$more = true; 
 		?>
-		
-		<div class="alignclear"></div>
+			<div class="alignclear"></div>
+		<?php
+			if ($icon_link) {
+		?>
+						<div class="alignclear"></div>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+		<?php
+			}
+		?>
 	</div>
 
 	<div class="multi-post-bottom-bar">
