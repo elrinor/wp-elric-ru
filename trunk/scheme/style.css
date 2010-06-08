@@ -238,6 +238,19 @@ body                                  { height: 100%; width: auto; min-width: 96
 
 
 
+/**
+ * MULTIPROJECT
+ */
+.multi-project-table                   { width: 100%; margin: -10px; }
+.multi-project-td                      { padding: 10px; vertical-align: top; }
+.multi-project-icon-box                { background-color: #FFCF8C; border-right: 1px solid; 
+										 border-right-color: #808080; border-right-color: rgba(0, 0, 0, 0.3); } /* The first border-color is a fallback for IE. */ }
+.multi-project-icon-box a:hover        { background: #FFCF8C; }
+.multi-project-icon-box a:first-child  { margin: 0px auto; display: block; text-align: center; background: none; border: none; }
+.multi-project-icon-box a:first-child:hover { background: none; border: none; }
+.multi-project-icon-box a img          { border: 1px solid #000000; }
+
+
 /*
  * AVATARS
  */
