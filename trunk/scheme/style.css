@@ -249,7 +249,7 @@ body                                  { height: 100%; width: auto; min-width: 96
 .multi-project-icon-box a:first-child  { margin: 0px auto; display: block; text-align: center; background: none; border: none; }
 .multi-project-icon-box a:first-child:hover { background: none; border: none; }
 .multi-project-icon-box a img          { border: 1px solid #000000; }
-
+.multi-project-content-box             { width: 100%; }
 
 /*
  * AVATARS

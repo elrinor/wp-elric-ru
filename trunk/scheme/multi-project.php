@@ -35,7 +35,7 @@
 							<img title="<?php the_title(); ?>" alt="<?php the_title(); ?>" src="<?php echo $icon_link; ?>">
 						</a>
 					</td>
-					<td class="multi-project-td">
+					<td class="multi-project-td multi-project-content-box">
 		<?php 
 			}
 			
