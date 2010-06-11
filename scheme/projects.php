@@ -24,7 +24,7 @@ Template Name: Projects
 		<?php 
 			if ($split_by_seriousness == 1) { 
 				echo $serious_header;
-				$myposts = get_children('post_parent=' . $post_id);
+				$myposts = get_children('post_parent=' . $post_id . '&post_type=page');
 				foreach ($myposts as $post) {
 					setup_postdata($post);
 					if (get_post_meta(get_the_ID(), 'is_serious', true) == 0)
@@ -33,7 +33,7 @@ Template Name: Projects
 				}
 				
 				echo $non_serious_header;
-				$myposts = get_children('post_parent=' . $post_id);
+				$myposts = get_children('post_parent=' . $post_id . '&post_type=page');
 				foreach ($myposts as $post) {
 					setup_postdata($post);
 					if (get_post_meta(get_the_ID(), 'is_serious', true) == 1)
@@ -41,7 +41,7 @@ Template Name: Projects
 					include(TEMPLATEPATH . '/multi-project.php');
 				}
 			} else {
-				$myposts = get_children('post_parent=' . $post_id);
+				$myposts = get_children('post_parent=' . $post_id . '&post_type=page');
 				foreach ($myposts as $post) {
 					setup_postdata($post);
 					include(TEMPLATEPATH . '/multi-project.php');
