@@ -63,7 +63,8 @@
 	$project_page = get_post_meta(get_the_ID(), 'project_page', true);
 	$repository = get_post_meta(get_the_ID(), 'repository', true);
 	$license = get_post_meta(get_the_ID(), 'license', true);
-	if ($project_page != false || $repository != false || $license != false) {
+	$platforms = get_post_meta(get_the_ID(), 'platforms', true);
+	if ($project_page != false || $repository != false || $license != false || $platforms != false) {
 ?>
 	<div class="widget">
 		<div class="widget-top-bar">
@@ -86,6 +87,12 @@
 					<a href="<?php echo $repository; ?>" title="<?php echo $repository; ?>">
 						<?php echo shorten_link($repository); ?>
 					</a>
+				</p>
+			<?php } ?>
+			<?php if ($platforms != false) { ?>
+				<p>
+					Platforms: <br/>
+					<?php echo $platforms ?>
 				</p>
 			<?php } ?>
 			<?php if ($license != false) { ?>
