@@ -9,7 +9,7 @@
 <div class="main-box">
 	<div id="menu-bar">
 		<ul id="main-menu">
-			<?php wp_list_pages('title_li=&include=' . $home_page_id . ',' . $about_page_id . ',' . $contact_page_id . ',' . $blog_page_id) ?>
+			<?php wp_list_pages('title_li=&include=' . $home_page_id . ',' . $about_page_id . ',' . $blog_page_id) ?>
 		</ul>
 		
 		<ul id="extra-menu">

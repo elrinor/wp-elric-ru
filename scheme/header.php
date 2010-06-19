@@ -3,13 +3,11 @@
 	<?php
 		global $home_page_id;
 		global $about_page_id;
-		global $contact_page_id;
 		global $blog_page_id;
 		global $projects_page_id;
 		global $cv_page_id;
 		$home_page_id     = 5;
 		$about_page_id    = 2;
-		$contact_page_id  = 11;
 		$blog_page_id     = 8;
 		$projects_page_id = 14;
 		$cv_page_id       = 16;
