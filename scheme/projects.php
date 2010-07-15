@@ -16,6 +16,7 @@ Template Name: Projects
 		<?php the_content('<p class="serif">Read the rest of this page &raquo;</p>'); ?>
 
 		<?php 
+			$top_post = get_post(get_the_ID());
 			$split_by_seriousness = get_post_meta(get_the_ID(), 'split_by_seriousness', true);
 			$serious_header = get_post_meta(get_the_ID(), 'serious_header', true);
 			$non_serious_header = get_post_meta(get_the_ID(), 'non_serious_header', true);
@@ -51,7 +52,7 @@ Template Name: Projects
 		
 		<?php 
 			/* Clear the mess. */
-			the_post(); 
+			setup_postdata($top_post);
 		?>
 	
 		<?php wp_link_pages(array('before' => '<p><strong>Pages:</strong> ', 'after' => '</p>', 'next_or_number' => 'number')); ?>
