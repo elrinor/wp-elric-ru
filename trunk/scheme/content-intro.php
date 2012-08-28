@@ -25,21 +25,9 @@
 		<div class="main-top-bar">
 			<div class="main-breadcrumb-box">
 			<?php
-				if(class_exists('bcn_breadcrumb_trail')) {
-					/* http://mtekk.weblogs.us/code/breadcrumb-navxt/breadcrumb-navxt-doc/2/ */
-					$breadcrumb_trail = new bcn_breadcrumb_trail;
-					$breadcrumb_trail->opt['home_display'] = false;
-					//$breadcrumb_trail->opt['home_title'] = 'Home';
-					$breadcrumb_trail->opt['separator'] = ' | ';
-					$breadcrumb_trail->opt['current_item_prefix'] = '<span class="main-breadcrumb-box-current">';
-					$breadcrumb_trail->opt['current_item_suffix'] = '</span>';
-					$breadcrumb_trail->opt['archive_category_prefix'] = 'Archive for the \'';
-					$breadcrumb_trail->opt['archive_category_suffix'] = '\' Category';
-					$breadcrumb_trail->opt['archive_tag_prefix'] = 'Posts Tagged \'';
-					$breadcrumb_trail->opt['archive_tag_suffix'] = '\'';
-					$breadcrumb_trail->fill();
-					$breadcrumb_trail->display();
-				}
+                if(function_exists('bcn_display')) {
+                    bcn_display();
+                }
 			?>
 			</div>
 			
