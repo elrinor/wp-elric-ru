@@ -6,9 +6,9 @@
 		global $blog_page_id;
 		global $projects_page_id;
 		global $cv_page_id;
-		$home_page_id     = 5;
-		$about_page_id    = 2;
-		$blog_page_id     = 8;
+		$home_page_id     = 8;
+		$about_page_id    = 666;
+		$blog_page_id     = 9;
 		$projects_page_id = 14;
 		$cv_page_id       = 16;
 	?>
