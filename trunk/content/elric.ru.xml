@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/3.4.1" created="2012-08-28 21:54" -->
+<!-- generator="WordPress/3.4.2" created="2014-01-18 15:33" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -27,25 +27,24 @@
 
 <channel>
 	<title>The Temple of the Rising Sun</title>
-	<link>http://localhost</link>
-	<description>Just another WordPress weblog</description>
-	<pubDate>Tue, 28 Aug 2012 21:54:35 +0000</pubDate>
+	<link>http://elric.ru/wordpress</link>
+	<description>where Elric dwells</description>
+	<pubDate>Sat, 18 Jan 2014 15:33:24 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://localhost</wp:base_site_url>
-	<wp:base_blog_url>http://localhost</wp:base_blog_url>
+	<wp:base_site_url>http://elric.ru/wordpress</wp:base_site_url>
+	<wp:base_blog_url>http://elric.ru/wordpress</wp:base_blog_url>
 
-	<wp:author><wp:author_id>1</wp:author_id><wp:author_login>admin</wp:author_login><wp:author_email>ru.elric@gmail.com</wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
-	<wp:author><wp:author_id>2</wp:author_id><wp:author_login>Elric</wp:author_login><wp:author_email></wp:author_email><wp:author_display_name><![CDATA[Elric]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+	<wp:author><wp:author_id>2</wp:author_id><wp:author_login>Elric</wp:author_login><wp:author_email>ru.elric@gmail.com</wp:author_email><wp:author_display_name><![CDATA[Elric]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
 	<wp:category><wp:term_id>3</wp:term_id><wp:category_nicename>japan</wp:category_nicename><wp:category_parent></wp:category_parent><wp:cat_name><![CDATA[Japan]]></wp:cat_name></wp:category>
 	<wp:category><wp:term_id>1</wp:term_id><wp:category_nicename>uncategorized</wp:category_nicename><wp:category_parent></wp:category_parent><wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name></wp:category>
 
-	<generator>http://wordpress.org/?v=3.4.1</generator>
+	<generator>http://wordpress.org/?v=3.4.2</generator>
 
 	<item>
 		<title>Home</title>
-		<link>http://localhost/?page_id=5</link>
+		<link>http://elric.ru/wordpress/</link>
 		<pubDate>Thu, 06 May 2010 18:48:01 +0000</pubDate>
 		<dc:creator>Elric</dc:creator>
 		<guid isPermaLink="false">http://elric.ru/?page_id=5</guid>
@@ -57,13 +56,13 @@
 <p>For those who are still here. The most interesting things to see at the Temple of the Rising Sun are:</p>
 <ul class="v-shrink">
 	<li> My ongoing and completed <a href="projects">projects</a>;</li>
-	<li> My personal <a href="blog">weblog</a>;</li>
+	<li> My personal <a href="blog">blog</a>;</li>
 	<li> Information <a href="about">about me</a>.</li>
 </ul>
 
 <p>If you have any suggestions or questions, please <a href="mailto:ru.elric@gmail.com">contact me</a>.</p>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5</wp:post_id>
+		<wp:post_id>8</wp:post_id>
 		<wp:post_date>2010-05-06 21:48:01</wp:post_date>
 		<wp:post_date_gmt>2010-05-06 18:48:01</wp:post_date_gmt>
 		<wp:comment_status>closed</wp:comment_status>
@@ -77,7 +76,7 @@
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
 			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_page_template</wp:meta_key>
@@ -86,14 +85,16 @@
 	</item>
 	<item>
 		<title>Blog</title>
-		<link>http://localhost/?page_id=8</link>
+		<link>http://elric.ru/wordpress/blog/</link>
 		<pubDate>Thu, 06 May 2010 18:50:35 +0000</pubDate>
 		<dc:creator>Elric</dc:creator>
 		<guid isPermaLink="false">http://elric.ru/?page_id=8</guid>
 		<description></description>
-		<content:encoded><![CDATA[blog]]></content:encoded>
+		<content:encoded><![CDATA[<p>I don't run a blog at <a href="http://elric.ru/">elric.ru</a> anymore, as this website is more of a business card and a blog just doesn't fit in.</p>
+
+<p>However, you can read my ramblings about life in Japan on my wordpress blog <a href="http://elricj.wordpress.com">Elric in Japan</a>. I also post on <a href="http://ru-elric.livejournal.com">LiveJournal</a> from time to time.</p>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>8</wp:post_id>
+		<wp:post_id>9</wp:post_id>
 		<wp:post_date>2010-05-06 21:50:35</wp:post_date>
 		<wp:post_date_gmt>2010-05-06 18:50:35</wp:post_date_gmt>
 		<wp:comment_status>closed</wp:comment_status>
@@ -107,12 +108,16 @@
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
 			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_page_template</wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>Projects</title>
-		<link>http://localhost/?page_id=14</link>
+		<link>http://elric.ru/wordpress/projects/</link>
 		<pubDate>Thu, 06 May 2010 19:56:13 +0000</pubDate>
 		<dc:creator>Elric</dc:creator>
 		<guid isPermaLink="false">http://elric.ru/?page_id=14</guid>
@@ -135,7 +140,7 @@
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
 			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_page_template</wp:meta_key>
@@ -156,14 +161,12 @@
 	</item>
 	<item>
 		<title>CV</title>
-		<link>http://localhost/?page_id=16</link>
+		<link>http://elric.ru/wordpress/cv/</link>
 		<pubDate>Thu, 06 May 2010 19:56:43 +0000</pubDate>
 		<dc:creator>Elric</dc:creator>
 		<guid isPermaLink="false">http://elric.ru/?page_id=16</guid>
 		<description></description>
-		<content:encoded><![CDATA[<p></p>
-
-<p>Here is my <a href='https://tomes-of-power.googlecode.com/svn/trunk/cv/CV.pdf'>CV</a> along with the diploma transcript <a href='https://tomes-of-power.googlecode.com/svn/trunk/scans/achievements/msu_diploma/msu_diploma_transcript_eng.pdf'>in English</a> and <a href='https://tomes-of-power.googlecode.com/svn/trunk/scans/achievements/msu_diploma/msu_diploma_transcript.pdf'>in Russian</a>.</p>]]></content:encoded>
+		<content:encoded><![CDATA[Here is my <a href="http://wings-of-wrath.googlecode.com/hg/cv/CV.pdf">CV</a> along with the diploma transcript <a href="https://docs.google.com/open?id=1BkJnOULxKyTtXqLFPndIZaTaUS8zvHBBAo1sAcxkRxmrpyfPGQc-6zpXAu42&authkey=CJblv_UM">in English</a> and <a href="https://docs.google.com/open?id=1oF3PXIZFEUI2A4DV7f1zK2i_M8Q57tZMa8_wKXuE0hLHZzP8H3JPPRozzMCO&authkey=CJvO6u4D">in Russian</a>.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>16</wp:post_id>
 		<wp:post_date>2010-05-06 22:56:43</wp:post_date>
@@ -179,7 +182,7 @@
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
 			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_page_template</wp:meta_key>
@@ -188,7 +191,7 @@
 	</item>
 	<item>
 		<title>SMART</title>
-		<link>http://localhost/?page_id=139</link>
+		<link>http://elric.ru/wordpress/projects/smart/</link>
 		<pubDate>Sat, 08 May 2010 09:49:23 +0000</pubDate>
 		<dc:creator>Elric</dc:creator>
 		<guid isPermaLink="false">http://elric.ru/?page_id=139</guid>
@@ -231,7 +234,7 @@
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
 			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_page_template</wp:meta_key>
@@ -243,7 +246,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>is_finished</wp:meta_key>
-			<wp:meta_value><![CDATA[-2]]></wp:meta_value>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>project_page</wp:meta_key>
@@ -259,12 +262,12 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>icon_link</wp:meta_key>
-			<wp:meta_value><![CDATA[http://elric.ru/wp-content/uploads/2010/05/smart-e1273359273762-150x100.jpg]]></wp:meta_value>
+			<wp:meta_value><![CDATA[https://wp-elric-ru.googlecode.com/svn/trunk/content/images/smart-150x100.jpg]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>Krug short film intro</title>
-		<link>http://localhost/?page_id=142</link>
+		<link>http://elric.ru/wordpress/projects/krug-short-movie-intro/</link>
 		<pubDate>Sat, 08 May 2010 10:00:13 +0000</pubDate>
 		<dc:creator>Elric</dc:creator>
 		<guid isPermaLink="false">http://elric.ru/?page_id=142</guid>
@@ -297,7 +300,7 @@
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
 			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_page_template</wp:meta_key>
@@ -313,12 +316,12 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>icon_link</wp:meta_key>
-			<wp:meta_value><![CDATA[http://elric.ru/wp-content/uploads/2010/05/krug_intro_x264_lossless.avi_snapshot_00.44_2010.05.08_15.08.36-e1273318310439-150x84.gif]]></wp:meta_value>
+			<wp:meta_value><![CDATA[https://wp-elric-ru.googlecode.com/svn/trunk/content/images/krug-150x84.gif]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>DelphiRT</title>
-		<link>http://localhost/?page_id=214</link>
+		<link>http://elric.ru/wordpress/projects/delphir/</link>
 		<pubDate>Mon, 10 May 2010 13:03:37 +0000</pubDate>
 		<dc:creator>Elric</dc:creator>
 		<guid isPermaLink="false">http://elric.ru/?page_id=214</guid>
@@ -351,7 +354,7 @@
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
 			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_page_template</wp:meta_key>
@@ -367,21 +370,21 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>downloads</wp:meta_key>
-			<wp:meta_value><![CDATA[<a href='http://elric.ru/wp-content/uploads/2010/05/delphirt-1.0.0.zip' title="DelphiRT source">delphirt-1.0.0.zip</a>]]></wp:meta_value>
+			<wp:meta_value><![CDATA[<a href='https://chaos-devices.googlecode.com/hg/projects/delphirt/delphirt.zip' title="DelphiRT source">delphirt-1.0.0.zip</a>]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>icon_link</wp:meta_key>
-			<wp:meta_value><![CDATA[http://elric.ru/wp-content/uploads/2010/05/DelphiRT-e1273496491665-150x100.jpg]]></wp:meta_value>
+			<wp:meta_value><![CDATA[https://wp-elric-ru.googlecode.com/svn/trunk/content/images/delphirt-150x100.jpg]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>ArXClock</title>
-		<link>http://localhost/?page_id=240</link>
+		<link>http://elric.ru/wordpress/projects/arxclock/</link>
 		<pubDate>Mon, 10 May 2010 18:59:34 +0000</pubDate>
 		<dc:creator>Elric</dc:creator>
 		<guid isPermaLink="false">http://elric.ru/?page_id=240</guid>
 		<description></description>
-		<content:encoded><![CDATA[<p>ArXClock is a simple alarm clock application written in C++ using Qt and (a bit of) boost libraries. ArXClock currently uses bass library for music playback, but I'm planning to switch to QtMultimedia once Qt 4.7 is out.</p>
+		<content:encoded><![CDATA[<p>ArXClock is a simple alarm clock application written in C++ using Qt and (a bit of) boost libraries. ArXClock uses Qt Phonon library for music playback.</p>
 
 <!--more-->
 
@@ -407,7 +410,7 @@
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
 			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>is_finished</wp:meta_key>
@@ -436,7 +439,7 @@
 	</item>
 	<item>
 		<title>Wordpress theme for elric.ru</title>
-		<link>http://localhost/?page_id=363</link>
+		<link>http://elric.ru/wordpress/projects/wordpress-theme-for-elric-ru/</link>
 		<pubDate>Tue, 04 May 2010 10:38:51 +0000</pubDate>
 		<dc:creator>Elric</dc:creator>
 		<guid isPermaLink="false">http://elric.ru/?page_id=363</guid>
@@ -459,7 +462,7 @@
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
 			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>is_finished</wp:meta_key>
@@ -487,12 +490,12 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>icon_link</wp:meta_key>
-			<wp:meta_value><![CDATA[http://elric.ru/wp-content/uploads/2010/05/elric.ru_-150x100.jpg]]></wp:meta_value>
+			<wp:meta_value><![CDATA[https://wp-elric-ru.googlecode.com/svn/trunk/content/images/elricru-150x100.jpg]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>Form Recognition Toolkit</title>
-		<link>http://localhost/?page_id=441</link>
+		<link>http://elric.ru/wordpress/projects/form-recognition-toolkit/</link>
 		<pubDate>Tue, 13 Apr 2010 17:08:42 +0000</pubDate>
 		<dc:creator>Elric</dc:creator>
 		<guid isPermaLink="false">http://elric.ru/?page_id=441</guid>
@@ -502,7 +505,7 @@
 <!--more-->
 
 <div class="photo-box to-right" style="width: 110px">
-<a href="http://elric.ru/wp-content/uploads/2010/05/FormScan.jpg"><img src="http://elric.ru/wp-content/uploads/2010/05/FormScan-106x150.jpg" alt="" title="FormScan" width="106" height="150" class="alignnone size-thumbnail wp-image-444" /></a><br/> A typical filled answer sheet.
+<a href="https://wp-elric-ru.googlecode.com/svn/trunk/content/images/form.jpg"><img src="https://wp-elric-ru.googlecode.com/svn/trunk/content/images/form-106x150.jpg" alt="" title="Form" width="106" height="150" class="alignnone size-thumbnail wp-image-444" /></a><br/> A typical filled answer sheet.
 </div>
 
 <p> This toolkit was created with written exams that cannot be checked automatically in mind. Normally, a student on such an exam must write down complete solutions for the problems presented, which are then checked by one or several experts. </p>
@@ -516,7 +519,7 @@
 </ul>
 
 <div class="photo-box to-right" style="width: 150px">
-<a href="http://elric.ru/wp-content/uploads/2010/05/ProtocolScan.jpg"><img src="http://elric.ru/wp-content/uploads/2010/05/ProtocolScan-150x106.jpg" alt="" title="ProtocolScan" width="150" height="106" class="alignnone size-thumbnail wp-image-442" /></a><br/>
+<a href="https://wp-elric-ru.googlecode.com/svn/trunk/content/images/protocol.jpg"><img src="https://wp-elric-ru.googlecode.com/svn/trunk/content/images/protocol-150x106.jpg" alt="" title="Protocol" width="150" height="106" class="alignnone size-thumbnail wp-image-442" /></a><br/>
 A typical recognized protocol page. Fields that were filled out incorrectly are marked in red. <br/>
 </div>
 
@@ -541,7 +544,7 @@ A typical recognized protocol page. Fields that were filled out incorrectly are 
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
 			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>is_serious</wp:meta_key>
@@ -558,7 +561,7 @@ A typical recognized protocol page. Fields that were filled out incorrectly are 
 	</item>
 	<item>
 		<title>Cave</title>
-		<link>http://localhost/?page_id=513</link>
+		<link>http://elric.ru/wordpress/projects/opengl-demos/cave/</link>
 		<pubDate>Thu, 11 Jun 2009 20:18:25 +0000</pubDate>
 		<dc:creator>Elric</dc:creator>
 		<guid isPermaLink="false">http://elric.ru/?page_id=513</guid>
@@ -573,7 +576,7 @@ A typical recognized protocol page. Fields that were filled out incorrectly are 
 
 <hr/>
 
-<div class="photo-box multi-photo to-center" style="width: 460px">
+<div class="photo-box multi-photo to-center" style="width: 465px">
 <a href="https://cmc-cg.googlecode.com/svn/trunk/_Screenshots/Cave-1.png"><img src="https://cmc-cg.googlecode.com/svn/trunk/_Screenshots/Cave-1s.png" alt="" width="150" height="112" class="alignnone size-thumbnail wp-image-515" /></a>
 <a href="https://cmc-cg.googlecode.com/svn/trunk/_Screenshots/Cave-2.png"><img src="https://cmc-cg.googlecode.com/svn/trunk/_Screenshots/Cave-2s.png" alt="" width="150" height="112" class="alignnone size-thumbnail wp-image-516" /></a>
 <a href="https://cmc-cg.googlecode.com/svn/trunk/_Screenshots/Cave-3.png"><img src="https://cmc-cg.googlecode.com/svn/trunk/_Screenshots/Cave-3s.png" alt="" width="150" height="112" class="alignnone size-thumbnail wp-image-517" /></a><br/>
@@ -594,7 +597,7 @@ Screenshots.
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
 			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>downloads</wp:meta_key>
@@ -631,7 +634,7 @@ Screenshots.
 	</item>
 	<item>
 		<title>Ravings of a Madman</title>
-		<link>http://localhost/?page_id=531</link>
+		<link>http://elric.ru/wordpress/projects/opengl-demos/ravings-of-a-madman/</link>
 		<pubDate>Thu, 11 Jun 2009 17:52:01 +0000</pubDate>
 		<dc:creator>Elric</dc:creator>
 		<guid isPermaLink="false">http://elric.ru/?page_id=531</guid>
@@ -644,7 +647,7 @@ Screenshots.
 
 <hr/>
 
-<div class="photo-box multi-photo to-center" style="width: 460px">
+<div class="photo-box multi-photo to-center" style="width: 465px">
 <a href="https://cmc-cg.googlecode.com/svn/trunk/_Screenshots/RavingsOfAMadman-1.png"><img src="https://cmc-cg.googlecode.com/svn/trunk/_Screenshots/RavingsOfAMadman-1s.png" alt="" width="150" height="112" class="alignnone size-thumbnail wp-image-533" /></a>
 <a href="https://cmc-cg.googlecode.com/svn/trunk/_Screenshots/RavingsOfAMadman-2.png"><img src="https://cmc-cg.googlecode.com/svn/trunk/_Screenshots/RavingsOfAMadman-2s.png" alt="" width="150" height="112" class="alignnone size-thumbnail wp-image-534" /></a>
 <a href="https://cmc-cg.googlecode.com/svn/trunk/_Screenshots/RavingsOfAMadman-3.png"><img src="https://cmc-cg.googlecode.com/svn/trunk/_Screenshots/RavingsOfAMadman-3s.png" alt="" width="150" height="112" class="alignnone size-thumbnail wp-image-535" /></a><br/>
@@ -665,7 +668,7 @@ Screenshots.
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
 			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>icon_link</wp:meta_key>
@@ -702,7 +705,7 @@ Screenshots.
 	</item>
 	<item>
 		<title>Some Kind of a CGProject</title>
-		<link>http://localhost/?page_id=543</link>
+		<link>http://elric.ru/wordpress/projects/opengl-demos/some-kind-of-a-cgproject/</link>
 		<pubDate>Thu, 11 Mar 2010 18:01:39 +0000</pubDate>
 		<dc:creator>Elric</dc:creator>
 		<guid isPermaLink="false">http://elric.ru/?page_id=543</guid>
@@ -715,7 +718,7 @@ Screenshots.
 
 <hr/>
 
-<div class="photo-box multi-photo to-center" style="width: 460px">
+<div class="photo-box multi-photo to-center" style="width: 465px">
 <a href="https://cmc-cg.googlecode.com/svn/trunk/_Screenshots/SomeKindOfACGProject-1.png"><img src="https://cmc-cg.googlecode.com/svn/trunk/_Screenshots/SomeKindOfACGProject-1s.png" alt="" width="150" height="112" class="alignnone size-thumbnail wp-image-545" /></a>
 <a href="https://cmc-cg.googlecode.com/svn/trunk/_Screenshots/SomeKindOfACGProject-2.png"><img src="https://cmc-cg.googlecode.com/svn/trunk/_Screenshots/SomeKindOfACGProject-2s.png" alt="" width="150" height="112" class="alignnone size-thumbnail wp-image-546" /></a>
 <a href="https://cmc-cg.googlecode.com/svn/trunk/_Screenshots/SomeKindOfACGProject-3.png"><img src="https://cmc-cg.googlecode.com/svn/trunk/_Screenshots/SomeKindOfACGProject-3s.png" alt="" width="150" height="112" class="alignnone size-thumbnail wp-image-547" /></a><br/>
@@ -736,7 +739,7 @@ Screenshots.
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
 			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>downloads</wp:meta_key>
@@ -773,7 +776,7 @@ Screenshots.
 	</item>
 	<item>
 		<title>Temple</title>
-		<link>http://localhost/?page_id=566</link>
+		<link>http://elric.ru/wordpress/projects/opengl-demos/temple/</link>
 		<pubDate>Thu, 11 Jun 2009 18:27:33 +0000</pubDate>
 		<dc:creator>Elric</dc:creator>
 		<guid isPermaLink="false">http://elric.ru/?page_id=566</guid>
@@ -786,7 +789,7 @@ Screenshots.
 
 <hr/>
 
-<div class="photo-box multi-photo to-center" style="width: 460px">
+<div class="photo-box multi-photo to-center" style="width: 465px">
 <a href="https://cmc-cg.googlecode.com/svn/trunk/_Screenshots/Temple-1.png"><img src="https://cmc-cg.googlecode.com/svn/trunk/_Screenshots/Temple-1s.png" alt="" title="Temple-1" width="150" height="112" class="alignnone size-thumbnail wp-image-568" /></a>
 <a href="https://cmc-cg.googlecode.com/svn/trunk/_Screenshots/Temple-2.png"><img src="https://cmc-cg.googlecode.com/svn/trunk/_Screenshots/Temple-2s.png" alt="" title="Temple-2" width="150" height="112" class="alignnone size-thumbnail wp-image-569" /></a>
 <a href="https://cmc-cg.googlecode.com/svn/trunk/_Screenshots/Temple-3.png"><img src="https://cmc-cg.googlecode.com/svn/trunk/_Screenshots/Temple-3s.png" alt="" title="Temple-3" width="150" height="112" class="alignnone size-thumbnail wp-image-570" /></a><br/>
@@ -807,7 +810,7 @@ Screenshots.
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
 			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>downloads</wp:meta_key>
@@ -844,7 +847,7 @@ Screenshots.
 	</item>
 	<item>
 		<title>15 is Enough</title>
-		<link>http://localhost/?page_id=573</link>
+		<link>http://elric.ru/wordpress/projects/opengl-demos/15-is-enough/</link>
 		<pubDate>Wed, 10 Jun 2009 18:36:38 +0000</pubDate>
 		<dc:creator>Elric</dc:creator>
 		<guid isPermaLink="false">http://elric.ru/?page_id=573</guid>
@@ -857,7 +860,7 @@ Screenshots.
 
 <hr/>
 
-<div class="photo-box multi-photo to-center" style="width: 614px">
+<div class="photo-box multi-photo to-center" style="width: 620px">
 <a href="https://cmc-cg.googlecode.com/svn/trunk/_Screenshots/15IsEnough-1.png"><img src="https://cmc-cg.googlecode.com/svn/trunk/_Screenshots/15IsEnough-1s.png" alt="" width="150" height="112" class="alignnone size-thumbnail wp-image-575" /></a>
 <a href="https://cmc-cg.googlecode.com/svn/trunk/_Screenshots/15IsEnough-2.png"><img src="https://cmc-cg.googlecode.com/svn/trunk/_Screenshots/15IsEnough-2s.png" alt="" width="150" height="112" class="alignnone size-thumbnail wp-image-576" /></a>
 <a href="https://cmc-cg.googlecode.com/svn/trunk/_Screenshots/15IsEnough-3.png"><img src="https://cmc-cg.googlecode.com/svn/trunk/_Screenshots/15IsEnough-3s.png" alt="" width="150" height="112" class="alignnone size-thumbnail wp-image-577" /></a>
@@ -880,7 +883,7 @@ Screenshots.
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
 			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>downloads</wp:meta_key>
@@ -917,7 +920,7 @@ Screenshots.
 	</item>
 	<item>
 		<title>Desert</title>
-		<link>http://localhost/?page_id=599</link>
+		<link>http://elric.ru/wordpress/projects/opengl-demos/desert/</link>
 		<pubDate>Thu, 11 Jun 2009 21:39:42 +0000</pubDate>
 		<dc:creator>Elric</dc:creator>
 		<guid isPermaLink="false">http://elric.ru/?page_id=599</guid>
@@ -930,7 +933,7 @@ Screenshots.
 
 <hr/>
 
-<div class="photo-box multi-photo to-center" style="width: 460px">
+<div class="photo-box multi-photo to-center" style="width: 465px">
 <a href="https://cmc-cg.googlecode.com/svn/trunk/_Screenshots/Desert-1.png"><img src="https://cmc-cg.googlecode.com/svn/trunk/_Screenshots/Desert-1s.png" alt="" width="150" height="112" class="alignnone size-thumbnail wp-image-601" /></a>
 <a href="https://cmc-cg.googlecode.com/svn/trunk/_Screenshots/Desert-2.png"><img src="https://cmc-cg.googlecode.com/svn/trunk/_Screenshots/Desert-2s.png" alt="" width="150" height="112" class="alignnone size-thumbnail wp-image-602" /></a>
 <a href="https://cmc-cg.googlecode.com/svn/trunk/_Screenshots/Desert-3.png"><img src="https://cmc-cg.googlecode.com/svn/trunk/_Screenshots/Desert-3s.png" alt="" width="150" height="112" class="alignnone size-thumbnail wp-image-603" /></a>
@@ -952,7 +955,7 @@ Screenshots.
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
 			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>downloads</wp:meta_key>
@@ -989,7 +992,7 @@ Screenshots.
 	</item>
 	<item>
 		<title>Quasiballs</title>
-		<link>http://localhost/?page_id=608</link>
+		<link>http://elric.ru/wordpress/projects/opengl-demos/quasiballs/</link>
 		<pubDate>Thu, 11 Jun 2009 21:52:07 +0000</pubDate>
 		<dc:creator>Elric</dc:creator>
 		<guid isPermaLink="false">http://elric.ru/?page_id=608</guid>
@@ -1001,11 +1004,11 @@ Screenshots.
 <div class="alignclear"> </div>
 
 <hr/>
-<div class="photo-box multi-photo to-center" style="width: 614px">
+<div class="photo-box multi-photo to-center" style="width: 620px">
 <a href="https://cmc-cg.googlecode.com/svn/trunk/_Screenshots/Quasiballs-1.png"><img src="https://cmc-cg.googlecode.com/svn/trunk/_Screenshots/Quasiballs-1s.png" alt="" width="150" height="112" class="alignnone size-thumbnail wp-image-614" /></a>
 <a href="https://cmc-cg.googlecode.com/svn/trunk/_Screenshots/Quasiballs-2.png"><img src="https://cmc-cg.googlecode.com/svn/trunk/_Screenshots/Quasiballs-2s.png" alt="" width="150" height="112" class="alignnone size-thumbnail wp-image-615" /></a>
 <a href="https://cmc-cg.googlecode.com/svn/trunk/_Screenshots/Quasiballs-3.png"><img src="https://cmc-cg.googlecode.com/svn/trunk/_Screenshots/Quasiballs-3s.png" alt="" width="150" height="112" class="alignnone size-thumbnail wp-image-616" /></a>
-<a href="https://cmc-cg.googlecode.com/svn/trunk/_Screenshots/Quasiballs-4.png"><img src="https://cmc-cg.googlecode.com/svn/trunk/_Screenshots/Quasiballs-4s.png" alt="" width="150" height="112" class="alignnone size-thumbnail wp-image-617" /></a>
+<a href="https://cmc-cg.googlecode.com/svn/trunk/_Screenshots/Quasiballs-4.png"><img src="https://cmc-cg.googlecode.com/svn/trunk/_Screenshots/Quasiballs-4s.png" alt="" width="150" height="112" class="alignnone size-thumbnail wp-image-617" /></a><br/>
 Screenshots.
 </div>
 
@@ -1029,7 +1032,7 @@ Screenshots.
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
 			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>downloads</wp:meta_key>
@@ -1066,7 +1069,7 @@ Screenshots.
 	</item>
 	<item>
 		<title>Nameless World</title>
-		<link>http://localhost/?page_id=641</link>
+		<link>http://elric.ru/wordpress/projects/opengl-demos/nameless-world/</link>
 		<pubDate>Thu, 11 Jun 2009 21:40:44 +0000</pubDate>
 		<dc:creator>Elric</dc:creator>
 		<guid isPermaLink="false">http://elric.ru/?page_id=641</guid>
@@ -1079,7 +1082,7 @@ Screenshots.
 
 <hr/>
 
-<div class="photo-box multi-photo to-center" style="width: 614px">
+<div class="photo-box multi-photo to-center" style="width: 620px">
 <a href="https://cmc-cg.googlecode.com/svn/trunk/_Screenshots/NamelessWorld-2.png"><img src="https://cmc-cg.googlecode.com/svn/trunk/_Screenshots/NamelessWorld-2s.png" alt="" width="150" height="112" class="alignnone size-thumbnail wp-image-644" /></a>
 <a href="https://cmc-cg.googlecode.com/svn/trunk/_Screenshots/NamelessWorld-3.png"><img src="https://cmc-cg.googlecode.com/svn/trunk/_Screenshots/NamelessWorld-3s.png" alt="" width="150" height="112" class="alignnone size-thumbnail wp-image-645" /></a>
 <a href="https://cmc-cg.googlecode.com/svn/trunk/_Screenshots/NamelessWorld-4.png"><img src="https://cmc-cg.googlecode.com/svn/trunk/_Screenshots/NamelessWorld-4s.png" alt="" width="150" height="112" class="alignnone size-thumbnail wp-image-646" /></a>
@@ -1103,7 +1106,7 @@ Screenshots.
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
 			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>downloads</wp:meta_key>
@@ -1140,7 +1143,7 @@ Screenshots.
 	</item>
 	<item>
 		<title>Dark Ritual</title>
-		<link>http://localhost/?page_id=665</link>
+		<link>http://elric.ru/wordpress/projects/opengl-demos/dark-ritual/</link>
 		<pubDate>Thu, 11 Jun 2009 21:00:31 +0000</pubDate>
 		<dc:creator>Elric</dc:creator>
 		<guid isPermaLink="false">http://elric.ru/?page_id=665</guid>
@@ -1174,7 +1177,7 @@ Screenshots.
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
 			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>downloads</wp:meta_key>
@@ -1211,12 +1214,12 @@ Screenshots.
 	</item>
 	<item>
 		<title>About</title>
-		<link>http://localhost/</link>
+		<link>http://elric.ru/wordpress/about/</link>
 		<pubDate>Tue, 04 May 2010 19:58:09 +0000</pubDate>
 		<dc:creator>Elric</dc:creator>
 		<guid isPermaLink="false">http://elric.ru/?page_id=2</guid>
 		<description></description>
-		<content:encoded><![CDATA[<div style="width: 206px" class="photo-box to-right to-top"><a href="http://picasaweb.google.com/lh/photo/zSPzUd1L-GICUVJeUhoTYQ?feat=embedwebsite"><img src="http://lh3.ggpht.com/_8ED3OEDm-ec/S-UeYp7H9lI/AAAAAAAABtM/7GSJyokMU_o/s200/DSC_2048P.jpg" /></a>From <a href="http://picasaweb.google.com/ru.elric/Me?feat=embedwebsite">Me</a></div>
+		<content:encoded><![CDATA[<div style="width: 206px" class="photo-box to-right to-top"><a href="https://plus.google.com/photos/100177180062339664882/albums/5468810632007115217/5880020614765183282?pid=5880020614765183282&oid=100177180062339664882"><img src="https://lh6.googleusercontent.com/-cWB_ok_Mj74/UZoHmG8NgTI/AAAAAAAACgQ/E9iu9e2EnqA/s200/DSC_6330.jpg" /></a>From <a href="https://plus.google.com/photos/100177180062339664882/albums/5468810632007115217">Me</a></div>
 
 <p>I am a M.Sc. in Applied Mathematics and Computer Science from Moscow State University (2009). During my M.Sc. I was a short-term student at Chuo University (Tokyo, Japan, September 2008 to February 2009), where I was studying Japanese and did some work on real-time ray tracing. My research interests include image-based modeling and rendering, 3d reconstruction and decompilation. </p>
 
@@ -1229,7 +1232,7 @@ Screenshots.
 		<wp:post_date_gmt>2010-05-04 19:58:09</wp:post_date_gmt>
 		<wp:comment_status>closed</wp:comment_status>
 		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>about-2</wp:post_name>
+		<wp:post_name>about</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>10</wp:menu_order>
@@ -1238,463 +1241,16 @@ Screenshots.
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
 			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_page_template</wp:meta_key>
 			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Hello world!</title>
-		<link>http://localhost/?p=1</link>
-		<pubDate>Tue, 28 Aug 2012 21:21:04 +0000</pubDate>
-		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://localhost/?p=1</guid>
-		<description></description>
-		<content:encoded><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start blogging!]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1</wp:post_id>
-		<wp:post_date>2012-08-28 21:21:04</wp:post_date>
-		<wp:post_date_gmt>2012-08-28 21:21:04</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>hello-world</wp:post_name>
-		<wp:status>trash</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>post</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-		<wp:postmeta>
-			<wp:meta_key>_wp_trash_meta_status</wp:meta_key>
-			<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_trash_meta_time</wp:meta_key>
-			<wp:meta_value><![CDATA[1346189344]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_trash_meta_comments_status</wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:1;s:1:"1";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:comment>
-			<wp:comment_id>1</wp:comment_id>
-			<wp:comment_author><![CDATA[Mr WordPress]]></wp:comment_author>
-			<wp:comment_author_email></wp:comment_author_email>
-			<wp:comment_author_url>http://wordpress.org/</wp:comment_author_url>
-			<wp:comment_author_IP></wp:comment_author_IP>
-			<wp:comment_date>2012-08-28 21:21:04</wp:comment_date>
-			<wp:comment_date_gmt>2012-08-28 21:21:04</wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Hi, this is a comment.<br />To delete a comment, just log in and view the post&#039;s comments. There you will have the option to edit or delete them.]]></wp:comment_content>
-			<wp:comment_approved>post-trashed</wp:comment_approved>
-			<wp:comment_type></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-		</wp:comment>
-	</item>
-	<item>
-		<title>About</title>
-		<link>http://localhost/?page_id=2</link>
-		<pubDate>Tue, 28 Aug 2012 21:21:04 +0000</pubDate>
-		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://localhost/?page_id=2</guid>
-		<description></description>
-		<content:encoded><![CDATA[<div style="width: 206px" class="photo-box to-right to-top"><a href="http://picasaweb.google.com/lh/photo/zSPzUd1L-GICUVJeUhoTYQ?feat=embedwebsite"><img src="http://lh3.ggpht.com/_8ED3OEDm-ec/S-UeYp7H9lI/AAAAAAAABtM/7GSJyokMU_o/s200/DSC_2048P.jpg" /></a>From <a href="http://picasaweb.google.com/ru.elric/Me?feat=embedwebsite">Me</a></div>
-
-<p>I am a M.Sc. in Applied Mathematics and Computer Science from Moscow State University (2009). During my M.Sc. I was a short-term student at Chuo University (Tokyo, Japan, September 2008 to February 2009), where I was studying Japanese and did some work on real-time ray tracing. My research interests include image-based modeling and rendering, 3d reconstruction and decompilation. </p>
-
-<p>I am a skilled programmer with experience in C++ and a handful of other languages. During my years at the university I have worked part time as a programmer at Intel Students Research Lab at the department of Computational Mathematics and Cybernetics (February 2007 to April 2008) and at the Institute for System Programming of Russian Academy of Sciences (September 2007 to September 2008). At the Intel Lab I was developing a panorama stitching application in C++. At the Institute for System Programming I was working as a C++ programmer in a team developing a framework for dynamic analysis of binary code.</p>
-
-<p>I am currently involved in several research and programming projects. You can check them out at the <a href="projects">projects</a> page.</p>]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2</wp:post_id>
-		<wp:post_date>2012-08-28 21:21:04</wp:post_date>
-		<wp:post_date_gmt>2012-08-28 21:21:04</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>about</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>page</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_page_template</wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Japan Chapter I: Arrival</title>
-		<link>http://localhost/?p=30</link>
-		<pubDate>Mon, 08 Dec 2008 20:20:39 +0000</pubDate>
-		<dc:creator>Elric</dc:creator>
-		<guid isPermaLink="false">http://elric.ru/?p=30</guid>
-		<description></description>
-		<content:encoded><![CDATA[<p>Finally, I'm writing about Japan. Since my arrival in Japan I've been amazed so much that my only thoughts were "Aaaa!!!", "Oooo!!!" and "Uuuu!!!", that's why it took so long to start writing. I have been here for two months already, and somehow I got used to the Japanese life, but I still find new interesting things now and then, so its like I've just arrived. Here I'm going to describe my most vivid impressions, as well as some of the subtle differences between Japanese and Western societies.</p>
-
-<!--more-->
-
-<h2>Chapter I. Arrival.</h2>
-
-<p>I left Moscow with a seven-kilo bag in my hand, with almost nothing inside - just some clothes, boots, and medicines. I knew that in Japan you need a recipe to buy any medicine, and also medicines are very different from what we have in Russia, so I took everything I may need with me. Some time after that, I've learned from my friends who have already visited local clinics, that the other problem with Japanese medicines is that they are much weaker than the ones in Russia. So taking medicines with me was a really good idea. I took no food, almost no presents, and no electronic devices except for my iPod.</p>
-
-<p>I bought a ticket for Aeroflot flight, which was the cheapest one available at the moment, and the flight took around 12 hours, but I don't remember exactly. The plane was a jalopy from Soviet times, so sometimes it was rather scary to hear the squeaks it produced... In the cabin there were several CRT tv sets, and everybody received a pair of headphones, so it was possible to watch some movies. But I didn't want to put on my glasses, and therefore the only activity left for me was sleeping. Falling asleep wasn't that difficult, since I had almost no sleep for several days before the flight, so that was what I did. Several times I was woken up by stewardess offering me something to eat. When it comes to food, I never refuse, so I took what they offered. And I have to admit that it wasn't that bad - especially compared to what I was fed last summer when I took a plane from Moscow to Adler. We were fed three times, which was more than enough considering the fact that we basically did nothing but sat in the same place. But still, passing the night on a plane is no fun - mainly because you cannot lie down and have to bear with the roar of aircraft engines.</p>
-
-<p>We landed at 10 a.m. in Narita airport. Since time shift between Tokyo and Moscow at that time was 5 hours, my watches showed 5 a.m. Normally I sleep at this time, so my body desperately protested against me being awake and all the time tried to turn my brain off. I didn't let it. When I was leaving the plane, I noticed how hot the air was outside. Yes, I was finally in Japan. Climate reminded me of Sochi - same hot and humid. After getting off the plane I had to undergo a registration procedure - fortunately I took my Certificate of Eligibility with me, so that didn't cause any problems. Except that the guy was speaking Japanese, so it was somewhat difficult for me to understand what he was mumbling about. They scanned my fingerprints and let me go to receive my luggage. Almost everywhere along with the signs in Japanese there were "English subtitles", which I'm used to, so it was impossible to get lost. And even if you are lost, you can always follow the crowd. So I picked up my luggage and finally got out.</p>
-
-<p>In the information sheet they sent me it was said that the student with a sign reading "Chuo University" will be waiting for me at the arrival lobby. Huh, they didn't say <i>which one</i>, cause there were many of them. On my first try I obviously picked the wrong one - she was a shy little girl, too shy to speak loud enough for me to hear her. So that was troublesome. In the end she just led me to another Japanese guy, who was there to meet me. His name was Haruki, and he happened to be a really nice guy. As I found out later, he was studying Russian in Chuo, but not for long enough to be able to talk. Russian is extremely complicated, after all. He was also really good in English, so we spoke in English all the time, and he told me a lot of interesting things about Japan that I didn't know before.</p>
-
-<div style="width: 150px" class="photo-box to-left"><a href="http://picasaweb.google.com/lh/photo/3GrLcLmnHNMO_Eoj6jU-kw"><img src="http://lh4.ggpht.com/_gfP_lT0ew7o/ST0ixIQ6_TI/AAAAAAAAAxg/N_P7L9hZFZA/s144/DSC_2470P.jpg" /></a>Note how close the houses are to the metro line.<br/>From <a href="http://picasaweb.google.com/jp.elric/Illustrations">Illustrations</a></div>
-
-<p>So that's how my journey began. We took a train from Narita to Ueno, changed trains there, went to Shinjuku, and finally from Shinjuku - to Higashi-Fuchu, where my apartment was. When I entered metro for the first time, I was really amazed at how perfectly everything was organized. First, there were no old ladies selling train tickets - everything was done by special machines. Interface was in Japanese, so I had to ask Haruki to guide me. Later I found out that it can be switched to English, but at that time I already didn't need it. Also, no matter where you went, there was always a pathway for blind people - it is normally a yellow-colored pathway with embossed pimples on it for blinds to be able to feel it with their feet. It's really surprising how Japanese care for disabled persons - even though there aren't many of them, these special pathways are everywhere, along with elevators and slopes for those who use wheelchairs. I guess in Russia this is just impossible.</p>
-
-<p>Road to Ueno took more than one hour. I was admiring the scenery and asking Haruki some stupid questions all the time. One thing I noticed first was how close they build houses here. Sometimes there is less than one meter between neighboring houses. Of course I asked Haruki about that as soon as I noticed. He said that almost everywhere in Japan it's the same - they don't have enough free space here, like we do in Russia, so they have to build really close. This "closeness" is everywhere - let it be the distance between metro lines and houses near it, or between two trains on the same line - it's always surprisingly small. But Japanese seemed not to care. Another thing about houses that I've noticed - they weren't high, normally no more than three floors. And what is more interesting, it's almost the same even in central Tokyo - there you can see a small two-storied house in front of a skyscraper. I guess this has something to do with the seismic activity in the region.</p>
-
-<div style="width: 150px" class="photo-box to-right"><a href="http://picasaweb.google.com/lh/photo/Q-k292fb7jfc6SQDtwacTg"><img src="http://lh5.ggpht.com/_gfP_lT0ew7o/STFT02vMcBI/AAAAAAAAAqU/ZZBUP7hWZkM/s144/DSC_2373P.jpg" /></a>And houses are close to each other too!<br/>From <a href="http://picasaweb.google.com/jp.elric/UntitledTokyo">Untitled Tokyo</a></div>
-
-<p>Since we took Keisei line from Narita, we arrived at Keisei-Ueno station, and had to walk to Ueno station by foot. That was the first time I have seen Tokyo with my own eyes, and it really reminded me of Krasnodar and Sochi - same hot, same humid, yet really pleasant weather, same dazzling sunshine, same smell of greenery mixed with exhaust and fumes of overheated asphalt. One could say this odour doesn't seem to be pleasant at all, but I like it - mostly because I have a lot of nice memories connected to it. I had two or three minutes to look around while we were going to Ueno station, where if my memory is correct, we took JR Yamanote line train.</p>
-
-<p>Our next stop was Shinjuku - the biggest metro station in Tokyo (and in the world, I suppose). That time I was guided by Haruki, so I had no chance to get lost and see how really big it is, that's why I wasn't really impressed at the time. But two weeks later, when I finally got there alone, I was just struck by it's size and complexity. I got lost several times before I was able to find my way. Really, if one wants to find his way through this station, he has to bring a map of it with him. Ah, since we're talking about maps. When we were buying tickets in Narita I saw a map of Keisei and some other lines above the ticket machines. It wasn't that big, so I asked Haruki whether there is a map of a whole Tokyo train system somewhere here. He thought for a moment, and said, that probably I won't find such map on any station. That time I didn't understand why, but now I know - Tokyo rapid transit system is just so big, that no map could fit it all without making you wear glasses to see what is what. Maybe I'm exaggerating a bit, but I'm pretty sure such a map won't be really useful if stuck somewhere in the train or on a station - mostly because of it's size. Now I have a paper one, but I rarely use it - it's so damn complicated that most of the time it's easier to use <a href="http://maps.google.com">Google maps</a> instead.</p>
-
-<div style="width: 150px" class="photo-box to-left"><a href="http://picasaweb.google.com/lh/photo/v1GR0e4F-ss1Nwtd0NLshg"><img src="http://lh6.ggpht.com/_gfP_lT0ew7o/ST0nseaDEWI/AAAAAAAAAx8/WWWJdHQ6eKA/s144/DSC_2464P.jpg" /></a>Higashi-Fuchu Station.<br/> From <a href="http://picasaweb.google.com/jp.elric/Illustrations">Illustrations</a></div>
-
-<p>In Shinjuku we switched to Keio line, went to Chofu on a Semi Special Express train, changed to local one there, and after some time finally arrived at Higashi-Fuchu station. That was a long way - around 80 kilometers in two hours. We got off, and was heading south, when I heard a sound so familiar that I was instantly overfilled with excitement. That was the sound of a closing gate crossing, which I heard so many times in different animes. And now I was hearing it live. Idiot's dream came true... Haruki had a map of neighboring area, with Bright Higashi-Fuchu marked on it, so even I was able to figure out where we were heading. My apartment happened to be in 2 minutes from the station, really convenient.</p>
-
-<div style="width: 100px" class="photo-box to-right"><a href="http://picasaweb.google.com/lh/photo/nsu3hK9FN2sJU2orl87FbQ"><img src="http://lh6.ggpht.com/_gfP_lT0ew7o/ST0p0Fg8bLI/AAAAAAAAAyE/qXQKtFyV07I/s144/DSC_2468P.jpg" /></a>Gate crossing in Higashi-Fuchu which I was talking about.<br/> From <a href="http://picasaweb.google.com/jp.elric/Illustrations">Illustrations</a></div>
-
-<p>Haruki gave me the key, and warned not to lose it. Considering the fact that my address was written on the key, that sounded very reasonable - really, I didn't want to get robbed, and I was pretty sure that replacing the lock wasn't going to be cheap. After that Haruki gave me some instructions on how to get to university, I dropped my bag, and asked him to show me around. We visited the nearest supermarket, where I bought some food - I brought none with me, so I needed it. After spending some time talking, Haruki left, and I went to sleep.</p>
-
-<div style="width: 100px" class="photo-box to-left"><a href="http://picasaweb.google.com/lh/photo/JMxvlZe9QFPvr3d4hXOi9Q"><img src="http://lh5.ggpht.com/_gfP_lT0ew7o/ST0cNNPDcxI/AAAAAAAAAxQ/9--ud4DoOeo/s144/DSC_2312P.jpg" /></a>Bright Higashi-Fuchu isn't bright at all...<br/>From <a href="http://picasaweb.google.com/jp.elric/Illustrations">Illustrations</a></div>
-
-<p>I slept for about an hour, and still had a whole day in store, which I spent walking around. Weather was really nice, especially compared to what I had in Moscow when I left - it was +5 degree Celsius there, raining with a strong wind. Here it was over 25 degree, and sun was shining brightly on a clear blue sky. I felt like on a summer resort, yet it was not the weather that filled me with joy and excitement - it was the feeling of freedom and carefreeness born from the fact that I was finally in Japan, the country I wanted to see for years, with all my obligations left in Russia. I guess I haven't felt like this for a pretty long time.</p>
-
-<p>However, there was one problem. Japan, being my heaven, was also my special hell. Kanji hell. Kanji were everywhere, and I wasn't able to read almost anything. The situation was worsen by the fact that I had no dictionary with me. I brought only a bidirectional Russian-English one, which happened to be so small that I knew almost every word in it, yet a lot of words I wanted to know weren't there. Anyway, when everything is in Japanese, English is of no help.</p>
-
-<p>It got dark past six, and since I was really sleepy, I just cooked some food and went to sleep. That's how my first day in Japan has passed. More to come!</p>]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>30</wp:post_id>
-		<wp:post_date>2008-12-08 23:20:39</wp:post_date>
-		<wp:post_date_gmt>2008-12-08 20:20:39</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>japan-chapter-i-arrival</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>post</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="japan"><![CDATA[Japan]]></category>
-		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_encloseme</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_old_slug</wp:meta_key>
-			<wp:meta_value><![CDATA[japan-arrival]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Japan Chapter II: The Boredom of Daily Life</title>
-		<link>http://localhost/?p=57</link>
-		<pubDate>Mon, 19 Jan 2009 23:01:21 +0000</pubDate>
-		<dc:creator>Elric</dc:creator>
-		<guid isPermaLink="false">http://elric.ru/?p=57</guid>
-		<description></description>
-		<content:encoded><![CDATA[<p>It took me really long to continue writing at least something... I guess I'm just too lazy. But the time has finally come, and now I'm going to describe my daily life. It's not that interesting and informative, yet a lot of people have asked me to write about it. I don't see any point in going into details of every day here, therefore I'll just give a short outline. </p>
-
-<!--more-->
-
-<p>Before I start, here is a <a href="http://picasaweb.google.com/jp.elric">link</a> to my picasa album with photos I took in Japan. I've already posted here a lot of photos from there, but have never actually shared this link. So, just in case. </p>
-
-<h2>Chapter II. The Boredom of Daily Life.</h2>
-<p class="epigraph">How we spend our days is, of course, how we spend our lives.<br/>&ndash; Annie Dillard</p>
-<p>Daily life, even if it's in Japan, still remains just a daily life. Nothing interesting, basically. Unless you are really trying to make it interesting. Realizing that simple fact took me some time, and since I had plenty of free time and no need to work, I've decided to change the way my life was back in Moscow to color it with new experience and impressions. Really, I'm on a vacation six months long, so why not? And taking into account the fact that the global economic crisis is it's full bloom, it seems to be reasonable to spend the money I've earned during the last year - this way I could materialize them into goods, fun, or whatever, instead of just watching them slowly being eaten by inflation and dollar rate changes.</p>
-
-<p>Yet, even having made such a decision, I still had to go to classes. But I should admit that they weren't boring at all, so it's not like they were devouring my precious time which I could have spent on something more enjoyable. The only problem was that classes normally begin at 9:20, so I had to wake up around 7:00, which I'm not used to. So sometimes, after staying awake until late, it was really difficult for me not to fall asleep on Kanji class.</p>
-
-<p>Japanese classes weren't the only ones I had - I was also taking two classes per week on computer science related topics, and one class on Japanese culture. Fortunately, the latter one was taught in English, but that doesn't go for computer science ones - they were in Japanese, and at first it was like a real hell. Indeed, what can one think of, when he is alone in a room full of Japanese talking Japanese, with a blackboard filled with kanji, which are no less Japanese than everything else there? "Doctors will probably come for me in a few minutes..." - that's the most reasonable idea among the ones I came up with. But after several weeks of study I gradually started to understand what sensei was talking about, even though I was never able to catch every word.</p>
-
-<div style="width: 150px" class="photo-box to-left"><a href="http://picasaweb.google.com/lh/photo/cGOpXrv8TuXZ6VZIO74fUg?feat=embedwebsite"><img src="http://lh5.ggpht.com/_gfP_lT0ew7o/SXRngWwXjVI/AAAAAAAAA94/QeloMk4TSdU/s144/DSC_2836P.jpg" /></a>Professor Mitsunori Makino.<br/> From <a href="http://picasaweb.google.com/jp.elric/Friends?feat=embedwebsite">Friends</a></div>
-
-<div style="width: 150px" class="photo-box to-right"><a href="http://picasaweb.google.com/lh/photo/mav-TJE6x79k4c0XH3fzdQ?feat=embedwebsite"><img src="http://lh4.ggpht.com/_gfP_lT0ew7o/SXRpsF0THTI/AAAAAAAAA-g/FAMAZ5mVKo4/s144/DSC_2619PC.jpg" /></a>Professor Hisashi Suzuki.<br/> From <a href="http://picasaweb.google.com/jp.elric/Friends?feat=embedwebsite">Friends</a></div>
-
-<p>Ok, I guess it's time to stop complaining of hardships of being surrounded by kanji and Japanese stuff. I better describe my classes in detail. One of the CS classes I've mentioned above was led by my local academic advisor - professor Mitsunori Makino. This class was on Scientific Visualization. Materials were in English, so I had no problems at all - in case I didn't catch what sensei was saying, as it was happening most of the time, I always was able to look everything up in the printouts he gave us. The topic was really interesting to me, so I've enjoyed this class. The second class was led by professor Hisashi Suzuki - this one was on Artificial Intelligence, a rather complicated topic. The problem was that all the printouts were in Japanese, and sensei used a lot of difficult words in his speech, so that even his Japanese students were saying that he was hard to understand. Nevertheless, his classes were really enjoyable for me - partially because of him always wearing a smile and joking a lot. Though I didn't catch most of his jokes...</p>
-
-<div style="width: 100px" class="photo-box to-right"><a href="http://picasaweb.google.com/lh/photo/4-Ykgy7Bn7fTIXpnfwlZjw?feat=embedwebsite"><img src="http://lh5.ggpht.com/_gfP_lT0ew7o/SXRrAXoTeuI/AAAAAAAAA-0/rCo_92DpkoA/s144/DSC_1323P.jpg" /></a>Professor Schaumann. <br/> From <a href="http://picasaweb.google.com/jp.elric/Friends?feat=embedwebsite">Friends</a></div>
-
-<p>The only class I took which wasn't in Japanese was on Japanese culture. It was led by a really nice German professor - Mr. Schaumann. The cool thing about his classes was that sometimes after the class he took some of the students with him to <a href="http://en.wikipedia.org/wiki/Izakaya">izakaya</a>. There you could drink, but what is more important - you could see some of the things he was talking about with your own eyes, and also practice the skill of "Japanese politeness". Last time when I went with him I've learnt a lot of really important things, which helped me afterwards. But after around one hour of drinking I understood that going with him alone was a mistake - he was a really strong one, and when I was already on a verge of being unable to walk on a straight line, he was still fine, ready to drink more and more. I guess he was disappointed, since Russians are supposed to be strong drinkers. Should I train more?</p>
-
-<div style="width: 150px" class="photo-box to-left"><a href="http://picasaweb.google.com/lh/photo/55hWCO_IDbLIio7RsttQDg?feat=embedwebsite"><img src="http://lh4.ggpht.com/_gfP_lT0ew7o/SXSGVSUe3zI/AAAAAAAAA_4/BuwfJIPJGx4/s144/DSC_2450P.jpg" /></a>Some of my students at ESS class. <br/> From <a href="http://picasaweb.google.com/jp.elric/Friends?feat=embedwebsite">Friends</a></div>
-
-<p>I also had one "unofficial" class - I was one of the lesson leaders of English Speaking Society circle (ESS). This circle was created to help Japanese learn English by means of providing additional lessons where they could practice with native speakers and the ones like me. What to do during the lesson is completely up to the lesson leader, and since I wanted to have fun, we ended up playing different kind of games for half of the time. And when we weren't playing, I was talking about different Russian stuff, like fairy tales, the celebration of the New Year, my hometown, etc. The funny thing was with the homework. I thought, that since Japanese guys are coming here to improve their English, they would be glad to start working a bit harder, so I've asked them to write a short essay at home. I was completely mistaken - even though they are visiting lessons, they are extremely lazy. It seems that the only place where they are not is their "baito" - a part-time job. So that essay experiment was a complete failure.</p>
-
-<div style="width: 150px" class="photo-box to-right"><a href="http://picasaweb.google.com/jp.elric/UntitledTokyo?feat=embedwebsite#5293014252518265826"><img src="http://lh6.ggpht.com/_gfP_lT0ew7o/SXSQa0huU-I/AAAAAAAABAg/LvcqiFNLcFg/s144/DSC_0125P.jpg" /></a>Scenery seen from 3rd building of Kourakuen Campus. <br/> From <a href="http://picasaweb.google.com/jp.elric/UntitledTokyo?feat=embedwebsite">Untitled Tokyo</a></div>
-
-<p>Geographically my Computer Science classes took place in Kourakuen campus, which is in central Tokyo, while the rest were in Tama campus, located in the eastern part of Tokyo. I ended up living in Fuchu city, right between these two campuses. It may sound like it's convenient, but I wonder whether it really is. If my apartment had been somewhere near Tama campus, at least I would have had no need to wake up that early. And I would also have been able to participate in all the parties without worrying about catching the last train! But I guess it cannot be helped...</p>
-
-<p>So, I had ten classes per week in total, therefore I had a lot of free time. And this is the most interesting part. Naive ones may think that I was studying in the free time... or even programming... no way! I already had enough of it, so I was having fun. First of all, approximately one month after coming to Japan I finally got my hands on <a href="http://www.kenrockwell.com/nikon/d700.htm">Nikon D700</a> - probably the best amateur DSLR camera for that time. Obviously, I've picked a body version, since the kit lens sucked, so it took me some time of browsing through <a href="http://auctions.yahoo.co.jp/">Yahoo Auctions</a> to buy all the lenses I needed. I've bought a telephoto lens several days after they have delivered the body, and since then I had no more time to spare. Even now, whenever I'm free and the weather is OK, I just grab my camera and leave. Here, no matter in which direction you go, you will always find something if not beautiful, then at least funny. This way I've found a lot of interesting places and was able to talk a lot with Japanese people about all kinds of stuff.</p>
-
-<div style="width: 150px" class="photo-box to-left"><a href="http://picasaweb.google.com/lh/photo/1Exye0Z4BiCrGfzptxBe8A?feat=embedwebsite"><img src="http://lh5.ggpht.com/_gfP_lT0ew7o/SUe8EvSzsyI/AAAAAAAAAyw/0HQEbPMx_sE/s144/DSC_2936P.jpg" /></a>That's Hachiouji... <br/> From <a href="http://picasaweb.google.com/jp.elric/UntitledTokyo?feat=embedwebsite">Untitled Tokyo</a></div>
-
-<div style="width: 150px" class="photo-box to-right"><a href="http://picasaweb.google.com/lh/photo/rKH-L8i2HNPuLazC6ODYtw?feat=embedwebsite"><img src="http://lh3.ggpht.com/_gfP_lT0ew7o/SXSWkPo-NVI/AAAAAAAABA8/Z1OOpx71APY/s144/DSC_2326P.jpg" /></a>...and Fuchu. Feel the difference! <br/> From <a href="http://picasaweb.google.com/jp.elric/UntitledTokyo?feat=embedwebsite">Untitled Tokyo</a></div>
-
-<p>At first I was walking around by foot, but soon enough I've realized that this way one cannot wander far enough. Tokyo is vast, and the distance one could walk in one hour is negligible compared to it's size. So I've decided to get a bike. I did some investigation on the prices, and have also asked some of my friends whether it was possible to buy a used one. It wasn't like I needed a good bike, since I was going to ride it for no more than five months. And the fortune was on my side - one of my friends had a bike he wasn't using, so he just lent it to me for free. The name of the guy was Pedja, an extremely cheerful and positive fellow, with whom I've partied a lot thereafter. The only problem was that Pedja's apartment was in Hachiouji city, which is pretty far from Fuchu. It took me almost three hours to get home from there by bike, and even though I've been meditating over Google Maps for at least twenty minutes before setting out, I eventually got lost and had to ask for directions. </p>
-
-<div style="width: 100px" class="photo-box to-left"><a href="http://picasaweb.google.com/lh/photo/DY5Wo7i0VtjUtGddQl2dxQ?feat=embedwebsite"><img src="http://lh5.ggpht.com/_gfP_lT0ew7o/SQ8RVuxPTqI/AAAAAAAAAS8/3ieXFZgS2Fo/s144/DSC_0667P.jpg" /></a>Pedja. You better not anger him!<br/>From <a href="http://picasaweb.google.com/jp.elric/Friends?feat=embedwebsite">Friends</a></div>
-
-<p>After getting a bike my life has gotten much easier. I was finally able to get pretty far from Fuchu in a relatively short time, and that's how I've discovered some cheap shops where I'm buying food even now. I guess I have to go into some details here. The shop where I'm buying most of the food is actually a "99" shop - read as "kyuu-kyuu". As one may guess, everything is for 99 yen there. In Russia, such "everything-for-the-same-price" sale is normally associated with low-quality Chinese stuff, which nobody needs anyway. And I should say that in Russia I've never seen shops which would work on such basis. But here it's pretty common, and they also sell food there. Compared to the prices in big supermarkets it's really cheap, so this "kyuu-kyuu" shop is the place where I buy bread, eggs, milk, and some other food most of the time. Actually, these 99 yen shops are not that common. The most common ones are 100 yen shops - the idea here is the same. In some places there also exist 1000 yen shops, but I've never bought anything there. Another interesting thing about this 99 yen shop is that I've noticed recently that they actually sell some of the stuff there with a loss, or with a very little profit. I came up with such a conclusion because I've recently seen a plate reading "no more than one pack for one customer, please" in front of 8 eggs packs. Remembering the fact that in all other supermarkets 10 eggs pack costs no less than 200 yen, this makes sense. Anyway, since I'm a <a href="http://en.wikipedia.org/wiki/Gaijin">gaijin</a>, I guess I can buy any quantity I want - at the time when I was yet to find out the restriction, nobody has actually said me anything when I bought three such packs. Yet another cool thing about these 100 yen shops is that there you can buy in one place all the small stuff like chopsticks, cups, spoons, clothespins, pens, socks, dvd disks, and even screwdrivers. This eliminates the need to visit thousand places to get all the daily life necessities. Really convenient.</p>
-
-<div style="width: 150px" class="photo-box to-right"><a href="http://picasaweb.google.com/lh/photo/aCAuFgn8sskVOrMJ-B34YA?feat=embedwebsite"><img src="http://lh4.ggpht.com/_gfP_lT0ew7o/SXSqDz4YQII/AAAAAAAABBs/nj8DvhSH1x4/s144/DSC_3693P.jpg" /></a>7-Eleven convenience store near my apartment. Works at night, as you can see.<br/>From <a href="http://picasaweb.google.com/jp.elric/Illustrations?feat=embedwebsite">Illustrations</a></div>
-
-<p>And since we are talking about shops and convenience. There is another type of shops here, called <a href="http://en.wikipedia.org/wiki/Convenience_store">convenience stores</a>, or "konbini". Japanese really like to shorten the words my omitting endings or kanjis in case the word was originally Japanese. So today it is not rare to even hear a "konbi" instead of "konbini", or, for example, "jihanki" instead of "jidouhanbaiki". The latter one is a word for vending machines, which also deserve some words to be spent on. But first - back to the konbinis. They are open twenty four hours a day, and the prices there are normally a bit higher than in big supermarkets. There they sell all kinds of Japanese fast food, like hot <a href="http://en.wikipedia.org/wiki/Nikuman">nikuman</a> during winter, cup ramen, <a href="http://en.wikipedia.org/wiki/Onigiri">onigiri</a>, prepared sushi sets, bakery, bottled tea, and some other necessities like socks, shampoo, soap, and even manga and ero-mags. It seems that the latter ones have recently become a necessity in this screwed up society. As for me, I normally buy only nikuman or onigiri in convenience stores when straying somewhere far away from home, or at night, when everything else is closed.</p>
-
-<p>OK, that was some offtopic. Actually, I'm planning to describe all the interesting things about Japanese shops later. Back to my free time. Besides taking shooting rides, I also spend a lot of time in front of my PC, just as always. Not that interesting as shooting, but still an important activity - like writing this diary, reading books, sorting all the photos I take every day, etc. But the activity I enjoy the most here is, of course, hanging out with my friends. I guess during the past several months I had more parties than during my whole life. The obvious drawback is that with all these parties my sober life came to an end, or at least to a long break. Of course it's not like I'm drinking nonstop, but compared to what I had in MSU (having some booze no more than ten times a year), it can be considered a lot. And since I'm not a well-trained Russian, some of my friends were quite disappointed - I guess they expected me at least to be able to gulp down a bottle of vodka at once. Anyway, hanging out here is not about drinking, and that's what I enjoy the most. This reminds me of the way all the parties were back in my school days - it was always first about drinking, and then about everything else. I've always considered this stupid, and therefore have never attended. Among the students of MSU it's the same in almost all cases - really, what's the point of having a party if you end up giving a hug to the toilet sink, or even vomiting all over the place? I wonder. What I like about the Japanese guys and exchange students I hang out with is that such thing doesn't happen here. It's always about <i>establishing personal contacts</i> and <i>enjoying the company of others</i> first, and then about everything else. Booze is just a means, but not an aim. And that makes a huge difference.</p>
-
-<div style="width: 150px" class="photo-box to-right"><a href="http://picasaweb.google.com/lh/photo/fPzLlXPdqJfi1qVnSrEHRA?feat=embedwebsite"><img src="http://lh5.ggpht.com/_gfP_lT0ew7o/SXSZleQ_TuI/AAAAAAAABBY/vfML_Rk10xo/s144/DSC_3686P.jpg" /></a>Role-playing session. The destiny of the world is decided here... <br/> From <a href="http://picasaweb.google.com/jp.elric/Illustrations?feat=embedwebsite">Illustrations</a></div>
-
-<p>Along with partying and riding my bike I have a whole bunch of other activities, like sightseeing, role-playing, chatting about nothing with my Japanese friends, etc. I'll tell more about sight-seeing later, but I want to say some words about role-playing now. Several weeks ago we've decided to try to play a campaign in a <a href="http://en.wikipedia.org/wiki/Legend_of_the_Five_Rings">Legend of the Five Rings</a> universe. It's essentially an adaptation of medieval Japan, with some elements from other east asian countries, and with magic and all kinds of stuff one expects to have in a role-playing game. And I should say that playing turned out to be so damn funny and enjoyable that I even ended up missing the last train once because of it. Last time I was smarter and just decided to stay overnight. As it is of now, we gather once a week for a session, which is normally about five hours long, talk while eating some snacks, roll dice from time to time, laugh a lot, and leave with a load of positive energy for the several following days. I should say that I've finally found a way to create fun out of thin air.</p>
-
-<p>Ok, I'm already tired of typing, and my alarm clock says that it will soon be time to wake up, so I guess I better call it a day. More to come!</p>]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>57</wp:post_id>
-		<wp:post_date>2009-01-20 02:01:21</wp:post_date>
-		<wp:post_date_gmt>2009-01-19 23:01:21</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>japan-chapter-ii-the-boredom-of-daily-life</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>post</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="japan"><![CDATA[Japan]]></category>
-		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_encloseme</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_encloseme</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Japan Chapter III: The Last Express</title>
-		<link>http://localhost/?p=70</link>
-		<pubDate>Mon, 29 Dec 2008 20:07:32 +0000</pubDate>
-		<dc:creator>Elric</dc:creator>
-		<guid isPermaLink="false">http://elric.ru/?p=70</guid>
-		<description></description>
-		<content:encoded><![CDATA[<p>First of all, I need to clarify something. I'm posting third chapter before the second, because a really funny thing happened to me, and I want to write about it. Second chapter is 70% done, so I'll share it soon. Ah, and another thing. This time my English will probably be bad, so please bear with it.</p>
-
-<!--more-->
-
-<h2>Chapter III. The Last Express.</h2>
-
-<p>When did it all begin? I suppose it was after one of the parties we had recently. I was returning home in a company of a really nice girl, who was Chinese, yet all my identification skills were telling me she was Japanese. I guess I'm still not good enough to differ. When leaving the party, I made her wait for a little - I forgot some stuff in one of the rooms, and had to return. Therefore, leaving a bit later than planned, we were wondering, whether we were going to make it to the last train. Time passed quickly as we talked, and soon we were on the Outsuka Teikyou Daigaku monorail station. There were two trains left, so we were there in time. I asked Angela (that was her name), whether she was ever late for the last train. She answered that fortunately, she always managed to catch it. She failed to get the last one in Takahatafudou only once, but since she lived in Seiseki-Sakuragaoka, she simply took the bus. It seems that the last bus there is always a bit later than the last train, for unlucky ones to be able to get home. So, having answered my question, she obviously asked me the same one. That's when something triggered in my head, producing a squeak sound that only I was able to hear. And at the same moment a really crazy idea crossed my mind: "Missing the last train... That would be a funny experience, don't you think so?". Of course, being rational, I quickly made that voice shut up, hiding its tempting offer in the depths of unconscious. I guess that was the moment I was doomed. We continued our talk about nothing all the way to Seiseki-Sakuragaoka, where she got off. Higashi-Fuchu was four stations ahead.</p>
-
-<p>Some time has passed. That day we were having a role-playing session at Damir's place, which is not so far from Keio Horinouchi station. As they say, doing nothing has never been so amazing. Last time when we were playing, I left at 23:10 and managed to get to Keio line Tamadoubutsukouen station in twenty five minutes, just before the last train, which was in 23:40. That time I wanted to leave a bit earlier, but since Damir decided to cook some gyoza after the session, I've stayed a little longer - really, no Russian can refuse free food. Especially if it's tasty. So I left at 23:00 together with Dirk, who lived much closer to the university than Damir. That was ten minutes earlier than the last time, so I wasn't really worried, even though we were walking a bit slower than I normally walk when I'm alone. We parted on the road crossing, I went in the direction of the university, and Dirk went home. Yet I kept on the same pace, with my mind floating somewhere far away. Maybe that was because this time I had my photo backpack with me, and was also carrying Aurelien's bag in my hand. Aurelien, my neighbor at Bright Higashi-Fuchu, forgot his bag at Dirk's place when he spent a night there after one of the parties, so Dirk asked me to return it to him. That wasn't a problem for me, so of course I agreed. Some time thereafter I found out that hanging around with two backpacks is surprisingly annoying.</p>
-
-<p>So, when I finally got to the gates of Chuo University, I understood that I had only fifteen minutes left. That wasn't much, so I decided to go through the territory of the university - that would have been much faster than going round it, as I did last time. So I entered the gates, and the watchman asked me, where I was going. I said that I was going to Chuo Daigaku Meisei Daigaku monorail station, and he let me pass. That bastard.</p>
-
-<p>While going up the hill I decided to check the gates near the hilltop first - I was pretty sure they were closed, but this way was much shorter, and it led directly to the Tamadoubutsukouen station. As expected, they were closed. So I turned left, going as fast as I could to the monorail station. But when I was close enough, I finally understood, that this time I was in shit, in a really deep one. That bastard could have said me that the gated he was watching over were the only ones open, yet he said nothing. Climbing over the gates at the monorail station seemed to be really dangerous, 'cause in case of a major failure I could end up flying ten meters with my head pointing down. The only good news were that I was going to land on grass. And Aurelien's bag, which was getting in the way all the time, dramatically increased the chances of such outcome. After thinking for a second, I decided to go back to the gates near the hilltop - anyway, there were no point in going back, to the place where I entered from, since then I was going to be late for sure. This time I was running, cursing Aurelien's bag all the time. Even though the gates near hilltop were closed, I still could have climbed the hill. Normally, when gates are open, we just go through the tunnel, getting out of it on the other side of the hill. The tunnel entrance on the side of Chuo University was surrounded with spiked fence, and since I didn't want to end up with two additional assholes, I decided not to climb it and just cross the hill. The only problem was that I didn't remember whether there was a fence on the other side of the hill, atop the tunnel exit. If there were none, I could end up climbing down right over the exit. And if my foot slipped, then I again was going to fly with my head pointing down. The good news were that it was no more than five meters this time. The bad ones were that I was going to land on asphalt. And since all of my limbs were really precious to me, and still are, I took a bit to the right. I was planning to turn left after descending the hill, but something went wrong. First of all, that bamboo forest happened to be really thick, so that I was barely advancing. After getting several cuts I remembered that I had my gloves with me, and put them on. Second, I ran into a wire fence right on the top of the hill. Luckily, that fence was a Japanese one. I'm pretty sure they didn't expect someone 192 centimeters tall to get there. So I just jumped over it and continued descending. After finally getting out of that thick bamboo forest, I saw a large clearing. I guess this time I overdid a bit with "taking to the right". On the left, where I was supposed to turn to, was the same bamboo forest, which I was already fed up with, and I still had some time in store. Not too much to make it to the last train on Keio line Tamadoubutskouen station, but at least I could have catched the monorail one. I followed the edge of the forest. But I forgot one really important fact - that I am really bad in orientation. Therefore, when I have finally decided to turn left, I was definitely going in a wrong direction. That became obvious to me when I ran into another fence. That could mean only one thing, and definitely not a good one - I was lost. There was still time left, so it was worth struggling. I climbed the fence, put on my glasses, looked around, saw some lights in the direction which I was going to, and proceeded with it. I had to climb another fence before I finally was able to feel asphalt under my feet. Again I put on my glasses, looked around, and this time I could say nothing but "oh fuck!". I was on the territory of Meisei University. I quickly located the monorail and darted off. When I finally reached Tamadoubutskouen monorail station, I understood that I still had a glimpse of hope, and the shit I was in wasn't as deep as I expected. I was several minutes late for the last but one train.</p>
-
-<p>There were some time until the last one, so I took off my shoes and shook out all the dirt and leaves that got there while I was cutting through the forest. When I was leaving home seven hours before, I thought about putting on sneakers instead of shoes, but for some reason I've picked shoes. I should have worn sneakers. There was a vending machine at the station, so I enjoyed a bottle of hot tea - I really needed it, since I was sweating plentifully after having so much fun in such a short time. After gulping down the bottle, I remembered a proverb: "Do you know how to distinguish a Russian? That's simple! Russians are always exhaling vapor!". That was indeed true this time, I guess I was even steaming.</p>
-
-<p>Last train didn't make me wait for long. I got on, and seated. Just as I was expecting, there was no point in running from monorail to Keio line when I got off in Takahatafudou - last train was already gone. There was one in the direction of Takaosanguchi, but that's the direction opposite to to the one I needed, and I already had enough night mountain climbing for today. So, the only option left was the bus Angela was talking about. I asked the guy on the station, and surprise! the bus was already gone. He said that since it was a holiday, the schedule was a bit different. I should have taken that into account. The depth of the shit I was in had just increased by several orders of magnitude.</p>
-
-<p>When we were talking with Angela about the ways of returning home with the last train being already gone, I said that in such a situation I'll probably go by foot. My joke was turning into reality. On the station I looked on the map of neighboring area, located north, and set off. I somehow knew the area, so I was pretty sure that I won't have any problems crossing the river and going all the way to Fuchu. Of course I could have ordered a taxi, but that would have destroyed all the fun. After twenty minutes of walking, the battery in my iPod discharged, so I was left without music. Really, I should have charged it before going to that role-playing session. </p>
-
-<div style="width: 150px" class="photo-box to-left"><a href="http://picasaweb.google.com/lh/photo/PrUaAqaDqGlrZ8kJ5q6Y9g?feat=embedwebsite"><img src="http://lh3.ggpht.com/_gfP_lT0ew7o/SVjVCLiWSDI/AAAAAAAAA7s/7UM70u0rzzY/s144/DSC_3325P.jpg" /></a>The river that cheated me. It was not Tamagawa!<br/>From <a href="http://picasaweb.google.com/jp.elric/Illustrations?feat=embedwebsite">Illustrations</a></div>
-
-<div style="width: 150px" class="photo-box to-right"><a href="http://picasaweb.google.com/lh/photo/b9_jxRUgnIa8w0G7Qw3vmw?feat=embedwebsite"><img src="http://lh4.ggpht.com/_gfP_lT0ew7o/SVjVBLjb-WI/AAAAAAAAA7k/F4XpsznNZrg/s144/DSC_3321P.jpg" /></a>On the bridge over that river. Note the monorail. <br/>From <a href="http://picasaweb.google.com/jp.elric/Illustrations?feat=embedwebsite">Illustrations</a></div>
-
-<p>Soon I've reached the river, but between me and the road going by the riverside was yet another fence. I already had enough fence climbing, so I went round it. Nearest bridge was the one with Tama monorail going atop of it. The scenery was beautiful there, so I took out my camera and made several shots. After crossing the river, I turned right, and followed the road that was going by the riverside. But the further I went, the more creepy the surroundings were getting. Suddenly the asphalt road turned into a narrow pathway, which finally turned right, and disappeared into the pebbles. I had the whole night in store, and fortunately my clothes were just the right ones, so I didn't feel cold. Basically, nothing was hurrying me, so I just went forward, with the slope covered with vegetation to the left, river to the right, and pebbly wastes ahead. Soon the path I was taking became too narrow, so I had to cross one of the river sleeves by jumping from one stone to another. I knew it was a bad idea, but the scenery of Tokyo ahead of me was so beautiful I couldn't stand but try to come closer. That's where the fun began. It happened to be that I was the only one who thought that he had crossed Tamagawa. After walking for a while, I saw another river to the left. That could have meant only one thing -  I was trapped on a pebble island, with water all around me, and with no option but to return back. And Tamagawa was really the river to the left, not the one I've crossed before. So I took several shots, using my photo backpack instead of a tripod, and turned back. There was something really beautiful in that creepy scenery. Foggy backwaters, swampy brushwoods, lit up by the fires of night Tokyo. Again I tried to take some pictures, but this time they didn't come out well - after all, operating camera in complete darkness and without a tripod isn't that simple.</p>
-
-<div style="width: 150px" class="photo-box to-right"><a href="http://picasaweb.google.com/lh/photo/RaD7NKOU97SuTt9eS3-NTQ?feat=embedwebsite"><img src="http://lh3.ggpht.com/_gfP_lT0ew7o/SVjVCtGM3DI/AAAAAAAAA70/oE4RHFSoZc4/s144/DSC_3334P.jpg" /></a>Unreachable...<br/>From <a href="http://picasaweb.google.com/jp.elric/Illustrations?feat=embedwebsite">Illustrations</a></div>
-
-<p>Taking the same way back would have been boring, so when I saw a pathway going up the slope which was to the right this time, I took it right away. Fortunately, the forest I entered wasn't a bamboo one. I was sure that I knew the direction, and this time luck was on my side - after some time I got out of the forest on the riverside of Tamagawa. There was a bridge ahead, so I just followed the road. Yet as I got closer to the bridge, I didn't see any road that would get me on the bridge. The one I was following went under it, to the right I had Tamagawa, and to the left was some kind of a construction site. So again, I had no choice. In front of the construction site there were several vending machines with cheap hot coffee, so I bought a can. That helped. On the entrance to the site there was a bar, blocking the way for cars, but not for me. Bar was around 60 centimeters over the ground, so I just stepped over it. But I wasn't careful enough and touched it a bit, which resulted in a series of really loud squeaks. I though that I'd have to explain to the watchman what kind of business do I have on a construction site with no living being in radius of at least two hundred meters at 2:00 a.m., with one large backpack on my back and another one in my hand. And with a face hidden in a hood. But fortunately, there were nobody around. I came closer to the bridge and saw a staircase. I jumped over the handrails, and ran up the stair.</p>
-
-<div style="width: 100px" class="photo-box to-left"><a href="http://picasaweb.google.com/lh/photo/MgQljLGREYqdYBBjtmz0Xg?feat=embedwebsite"><img src="http://lh4.ggpht.com/_gfP_lT0ew7o/SVjVDMLra3I/AAAAAAAAA78/cCkpLN_LCaE/s144/DSC_3340P.jpg" /></a>Some creepy place.<br/> From <a href="http://picasaweb.google.com/jp.elric/Illustrations?feat=embedwebsite">Illustrations</a></div>
-
-<div style="width: 100px" class="photo-box to-right"><a href="http://picasaweb.google.com/lh/photo/X4r4MY6Hy5bI2HyZpcKfUg?feat=embedwebsite"><img src="http://lh6.ggpht.com/_gfP_lT0ew7o/SVjVD06eTLI/AAAAAAAAA8E/qjE_GF4YE9w/s144/DSC_3356P.jpg" /></a>Am I really that scary?<br/> From <a href="http://picasaweb.google.com/jp.elric/Me?feat=embedwebsite">Me</a></div>
-
-<p>After crossing the bridge, I saw a large sign reading "Fuchu: 4 km". So, I was pretty close. But the fact that I was finally on the road leading directly to Fuchu meant that the fun has ended. Creating fun out of thin air has never been my talent, but this time I found a way to make my way more interesting. I've tried to catch a car. At this time, almost thirty percent of all the cars going in the direction of Shinjuku were taxi cars, so I thought that even in case I catch a taxi, I could say that I have no money and beg for a free lift. Yet, after some time I understood that I was way too optimistic. Not only nobody was trying to stop, some of them actually switched one track further from the roadside after noticing me. Where did all the Japanese politeness go? I wonder. Last time, when I was caught in a similar situation in Moscow, I didn't even need to thumb a lift - it was enough to stand still on the roadside looking on the passing cars to get offered a lift. Drivers were stopping just because I was looking at them. Nothing like this here. But I wasn't going to give up that easily. "They are not stopping here? OK. On the traffic light they will have to stop, and that's where I'm going to catch them! Mwahahaha!!!" - that was what I thought. Yet even such a tactic didn't help. The answer to my request was always a "no". Some of them even didn't open their mouth, just waved their hand. So after some time I gave up on the idea and just walked ahead. The funny thing is that even taxis didn't stop when I was thumbing a lift. That's what I find the strangest. Did I really look that scary?</p>
-
-<p>In Central Fuchu there were some people in the streets. Before that I was the only one almost all the time. When I finally came home, it was already 3:30 a.m. My feet hurt because of walking for too long in shoes, I really should have worn my sneakers. After taking a shower and chewing down some onigiri, I fell asleep.</p>
-
-<p>Today, every single muscle in my shoulders hurt. Hanging around with two backpacks wasn't that easy. Aurelien, you owe me one!</p>
-
-<p>What else can I say? Was it fun? Indeed, it was. Was it stupid? Indeed, it was. One should do stupid things from time to time, or else he will have no funny stories to tell.</p>]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>70</wp:post_id>
-		<wp:post_date>2008-12-29 23:07:32</wp:post_date>
-		<wp:post_date_gmt>2008-12-29 20:07:32</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>japan-chapter-iii-the-last-express</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>post</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="japan"><![CDATA[Japan]]></category>
-		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_encloseme</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Japan Chapter IV: The Divine Retribution</title>
-		<link>http://localhost/?p=80</link>
-		<pubDate>Wed, 03 Mar 2010 01:18:44 +0000</pubDate>
-		<dc:creator>Elric</dc:creator>
-		<guid isPermaLink="false">http://elric.ru/?p=80</guid>
-		<description></description>
-		<content:encoded><![CDATA[<p>Long time has passed since I have actually written something here... In the meantime I've successfully graduated from MSU, somehow managing to preserve the GPA of 5.0. At the time of graduation I hadn't been working for almost a year, and since one cannot eat his red diploma, nor can he build a house using it, I was close to being in real trouble. The situation was actually pretty simple - no job, no place to live, (almost) no money. That's exactly the situation when one should come up with something like "Hmm... It seems it's time to start looking for a job...", but my case was different. I really wanted to get a small vacation before starting the Real Hard Work, so I've packed my stuff and took a plane to Japan (well, actially it wasn't <i>that</i> simple, but I'll omit the details). </p>
-
-<!--more-->
-
-
-<h2>Chapter IV. The Divine Retribution.</h2>
-<p class="epigraph">Bazinga!<br/>&ndash; Sheldon Cooper</p>
-<p>Half a year ago I've written these fateful words:<br/>
-
-<i>...I already had enough night mountain climbing...</i><br/>
-
-It seems that some divine entity has decided that I hadn't, so I was presented with a marvelous opportunity to enjoy night mountain climbing once more, this time to its full.</p>
-
-<p>It was the morning of 12th of September, a drizzling morning of a rainy day. I had to do some preparations before departing in the direction of Fujisan, so I was heading to the nearest 100 yen shop. I had my camera backpack with a <a href="http://ja.wikipedia.org/wiki/%E5%90%88%E7%BE%BD">kappa</a>, a rainproof suit, thick gloves and some warm clothes inside. My camera with a full set of lenses was also with me. In the 100 yen shop I bought 1 liter of bottled tea, 5 onigiri, a compass and a headlight. In the manual for the headlight it was written that it will run for 6 hours from two AA batteries, so I bought four. </p>
-
-<p>The compass costed only 100 yen. "Climbing mt. Fuji with a 100-yen compass? It could have malfunctioned!" &mdash; that was what I was told several weeks after my little journey by one of my friends. But really, compass was invented in China in the beginning of the 1st millennium. Almost two thousand years ago! It's time for it to get cheap.</p>
-
-<p>I was going to climb Fujisan from <a href="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=%E6%B2%B3%E5%8F%A3%E6%B9%96&amp;sll=30.751278,137.8125&amp;sspn=62.314721,124.541016&amp;ie=UTF8&amp;hq=&amp;hnear=Lake+Kawaguchi&amp;ll=35.521609,138.773117&amp;spn=0.477822,0.972977&amp;t=h&amp;z=11">Kawaguchiko</a>, a small town to the north of mt. Fuji. A highway bus to Kawaguchiko followed the Chuo-dori from Shinjuku, making a stop every several kilometers. I was planning to get on at the stop at Hino city. It took me some time to figure out where the bus stop was &mdash; I've followed the map I found at the nearest monorail station, but when I got to the place where the stop was supposed to be, there happened to be nothing like a bus stop around. Returning to the station to look up the map again was not an option, so I just took my electronic dictionary and started translating the signs around me. I was quite surprised when scribblings on one suspicious door translated to "Bus stop behind this door".</p>
-
-<div style="width: 150px" class="photo-box to-left"><a href="http://picasaweb.google.com/lh/photo/tlEzlVQI-JNHY_5-WSrsTw?feat=embedwebsite"><img src="http://lh3.ggpht.com/_gfP_lT0ew7o/S5BRlpRg8qI/AAAAAAAAB8c/pEsk7-0UZio/s144/DSC_0262P.jpg" /></a>They have highways even in the countryside...<br/>From <a href="http://picasaweb.google.com/jp.elric/Illustrations?feat=embedwebsite">Illustrations</a></div>
-
-<p>I had around 20 minutes in store, so I spent them studying the bus schedule. A nice Japanese ojii-san who was also waiting the bus there helped me a little with reading the destination names of the buses that passed by. The bus I've been waiting for arrived exactly in time, so I got on and bought a ticket. The road to Kawaguchiko took over an hour, so when I finally got there it was already around 5 p.m. I had been really looking up to riding that bus since I wanted to take some pictures of the countryside scenery, but due to the foggy weather the pictures came out gloomy. Besides, most of the time there was a high fence on both sides of the highway, not something one would like to share photos of.</p>
-
-<p>The bus stop at Kawaguchiko was right in front of the Kawaguchiko JR station. At the station they were selling all kinds of Fujisan-related stuff &mdash; even canned fresh Fujisan air, 500 yen per can. I wonder how one is supposed to use it. I didn't buy anything because I already had enough stuff to carry &mdash; my backpack was no less than 9 kilos. So I went out, and that's when the fun began. It was so damn cloudy that I couldn't see Fujisan. Fortunately, I've known that mt. Fuji was to the south, so I took my compass and went on.</p>
-
-<p>Even this far from Tokyo there were some tourists around. I've seen them bying stuff at the station, taking pictures of the donkey statue, eating ramen at the nearest ramen-ya... I was fortunate enough to notice the map of the area on one of the road crossings and spent some time in front of it looking for a better route. There it came to me that taking only a self-drawn map with three points on it (one for Kawaguchiko, one for Fujisan and one for Gotemba) was a grievous error. I took a picture of the map and proceeded to the south.</p>
-
-<p>As I walked south the number of people I saw was gradually growing. I've passed a wooden house built in traditional Japanese style and roofed with bamboo. At first I thought it was kind of a museum, but it happened to be just a <a href="http://en.wikipedia.org/wiki/Yakiniku">yakiniku-ya</a>. I had no intention to spend several thousand yen on grilled meat, so I went ahead after taking some pictures of the building. </p>
-
-<p>Yet the meat smelt delicious, and it was not long before I was dreaming of meat instead of looking at the road. I needed to chew something down, but the onigiri I was carrying were strategic reserves for fujisan climb, so I started looking around for a ramen shop. I have noticed a sign reading "shokudou" (cafeteria) about 300m away from the road, but when I came closer it happened to be not a cafeteria but a dining hall of an <a href="http://en.wikipedia.org/wiki/Onsen">onsen</a> <a href="http://en.wikipedia.org/wiki/Ryokan_%28Japanese_inn%29">ryokan</a>. As I was heading back to the road, my stomach, excited by the odour of Japanese food that was served there, was rumbling in rage, while my mind was filled with appetizing images of grilled meat, yakisoba and other yummies. Urgh, even now thinking about it makes me drool... Obviously, the only option left was to resort to strategic reserves. Two onigiri disappeared in a blink.</p>
-
-<p>Feeling like a giant refreshed, I have quickened my pace. After some time I came across the Fuji Information Center. It seems the providence was with me, after all. There I acquired a detailed map of the area. The girl at the desk was really surprised to know that I, being a foreigner, was going to climb mt. Fuji alone. I responded with something like "Roshiajin da kara..." (<i>[I'll be fine]</i> because I'm Russian), but it seemed she didn't get the joke. After studying the map for some time I found out that I had taken too much to the west. I wanted to start the climb at the Fuji Sengen Shrine, so I had to walk 2 kilometers east.</p>
-
-<p>After looking on the map I also understood that I had made a big detour. I was in <a href="http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Fujiyoshida+City,+Yamanashi+Prefecture&sll=37.0625,-95.677068&sspn=57.815136,122.431641&ie=UTF8&hq=&hnear=Fujiyoshida+City,+Yamanashi+Prefecture,+Japan&t=h&z=12">Fujiyoshida</a> city, south-east to Kawaguchiko. There was no need to go all the way to Kawaguchiko, I could have gotten off at <a href="http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Fujiky%C5%AB+Highland+Station,+Japan&sll=37.0625,-95.677068&sspn=57.815136,122.431641&ie=UTF8&hq=&hnear=Fujiky%C5%AB+Highland+Station,+Japan&t=h&z=13&iwloc=A">Fujikyu Highland</a>, the last but one stop. </p>
-
-<p>The road east was not so empty as the one I had been following before. I finally found a ramen shop and filled my stomach and also replenished my strategic reserves at seven eleven. I have even visited a local Mac! Not to eat, of course... Yet as I had almost reached the Fuji Sengen Shrine, it has started raining. At first it were just several raindrops here and there, but soon the road got wet, Japanese opened their umbrellas and the cars that were passing by started to splash the clumsy pedestrians (Ok, ok, you got me, the latter is impossible in this country). The light rain turned into a heavy shower, so I had to hide at the nearby cafe. The darkness fell while I was sitting there. After finishing the 10th cup of coffee it became obvious that the providence I've just been talking about was adamant in its desire to soak me thoroughly. When leaving that cafe I was saying "Roshiajin da kara..." the second time, but not the last. </p>
-
-<p>There was a roofed parking lot near the cafe. I went there, unpacked my stuff, put on thick gloves, a rainsuit, a kappa, and tied plastic bags over my sneakers. After turning totally rainproof I continued my way to the Fuji Sengen Shrine, which was one block ahead. The shrine turned out to be quite a creepy place. Even though I still could see the fires of the night town, the atmosphere there was deathly silent. To my dismay, the only sound I could hear was the squelching of wet moss under my feet. The air was thick with the smell of damp soil and greenery, so thick that even the sounds of the outside world were dissipating in it. Stone statues of unknown gods were silently watching as I was passing by. I could bear it no more and turned on the headlight.</p>
-
-<p>Soon I had left the shrine. Ahead was a wide asphalt road meandering through the forest. Every now and then a car was passing by, so I had to walk close to the roadside and look back from time to time. The rain was still pouring down in buckets, but I didn't care. Humming a tune from one of Susumu Hirasawa's songs, I was going further.</p>
-
-<p>After about 40 minutes an asphalt road turned into a dirt one. There was a sign with some unfamiliar kanji there, but because of the heavy rain I couldn't use my dictionary. Soaking a 20000-yen gadget that have saved me numerous times would have been terribly stupid, no less. I have looked up these kanji afterwards. The sign was reading "Climb here". As I went deeper into the forest there were no more cars passing by, and soon the road became too narrow and rough for a car to pass. I was completely alone, and there was a high possibility that I was the only human being in a radius of one or two kilometers. Quite a strange feeling.</p>
-
-<p>The next several hours consisted of nothing but monotonous put-one-foot-in-front-of-the-other type of activity. I was following the road through the forest, looking at my compass from time to time to be sure that I was going in the right direction. The road wasn't straight, so I almost got lost several times &mdash; no wonder, especially when your field of vision is determined not by your physical abilities, but by the size of the light cone of the flashlight on your head. </p>
-
-<p>For some reason I remembered that there were monkeys in Japanese forests. My mind, when idle, has a nasty tendency to pervert every incoming thought. That's why soon I was thinking of hordes of wild cannibal monkeys combing the forest urging for fresh human blood. "Eaten by wild monkeys when climbing mt. Fuji". Hmm... That would have been a stupid death. Not stupid enough to get me a Darwin Award, though. </p>
-
-<p>With these positive thoughts I reached the 1st station. It was a creepy place, just as any other place in this creepy forest. Obviously, nobody was there. It was already around 1am, the rain had stopped, so I took off the kappa. Plastic bags on my sneakers had long been torn into stripes, so I took them off too. The good thing about the kappa was that it didn't let the water in. The bad thing was that it also didn't let the fresh air in, so my underwear was wet with sweat. Fortunately, I was smart enough to bring a spare set. After promptly changing into it and chewing down an onigiri, I went ahead.</p>
-
-<p>I wasn't in a hurry, so I was going at a rather slow pace. The second station was an even creepier place. The door left open was squeaking in the wind. I entered the building and lied down on the wooden bench, listening to the whistling of the wind and squeaking of the door. I guess I spent more than 20 minutes lying like that, trying not to fall asleep.</p>
-
-<p>At the third station there was nothing, not even a tiny hut. Somewhere on the way the batteries in my flashlight discharged, so I had to change them. That was when I noticed that because of the moonlight it was actually possible to climb with the flashlight off. If not for the trees, there would have been no need for the flashlight.</p>
-
-<div style="width: 150px" class="photo-box to-right"><a href="http://picasaweb.google.com/lh/photo/f7ztiAIQKuq0VgzzZjAGEQ?feat=embedwebsite"><img src="http://lh3.ggpht.com/_gfP_lT0ew7o/S5BQJysLefI/AAAAAAAAB8A/Pczez8B_U2g/s144/DSC_0307P.jpg" /></a>Kawaguchiko and Fujiyoshida cities at night.<br/> From <a href="http://picasaweb.google.com/jp.elric/Illustrations?feat=embedwebsite">Illustrations</a></div>
-
-<p>There was nothing interesting at the fourth station. Just a wooden hut with pieces of broken glass scattered on the floor. Somewhere between the fourth and the fifth stations I picked a wooden stick. It came to be of great help later.</p>
-
-<p>Around 4am I had finally left the forest. I was close to the fifth station, following the asphalt road the bus takes. Far below I could see the night Kawaguchiko and other towns. The scenery laid out before me was really breathtaking, so I spent some time taking pictures. I didn't yet know that I'll have to reconsider my understanding of the word "breathtaking" several kilometers ahead.</p>
-
-<div style="width: 150px" class="photo-box to-left"><a href="http://picasaweb.google.com/lh/photo/dEjJ3j_eOT_3l3ZwACNTUw?feat=embedwebsite"><img src="http://lh5.ggpht.com/_gfP_lT0ew7o/S5BOer-uL4I/AAAAAAAAB7Y/b9ARpqqR95s/s144/DSC_0347P.jpg" /></a>Sunrise. <br/>From <a href="http://picasaweb.google.com/jp.elric/UntitledJapan?feat=embedwebsite">Untitled Japan</a></div>
-
-<p>It was gradually getting brighter. I was obviously not getting to the summit before sunrise. There were some cars parked near the fifth station, but nobody was there. The forest had soon disappeared, leaving nothing but grass, and some time after &mdash; nothing but moss. It was damn windy up there, so I put on my headband and inserted a jersey under it, hiding its end under the collar so that my neck won't freeze. </p>
-
-<p>I met sunrise on the way to the sixth station. Watching the sun slowly climb the sky I ate three more onigiri. Like that I was going to run out of food pretty soon. At the sixth station I finally met some people. All of them were well-equipped and were using something like ski poles to ease the climb. I'm sure that compared to them I looked like some barbarian.</p>
-
-<p>The further I climbed, the stronger the wind was getting. Soon it had gotten so damn cold that I didn't want to put anything in my mouth. At the seventh station some nice Japanese guy who has brought a gas burner warmed a cup of tea for me. It wasn't that easy in this wind. Fortunately, soon the sun was up an shining warmly.</p>
-
-<div style="width: 150px" class="photo-box to-right"><a href="http://picasaweb.google.com/lh/photo/CI7_1SOJWq2PxfadWgNvfw?feat=embedwebsite"><img src="http://lh4.ggpht.com/_gfP_lT0ew7o/S5BPnWOW-rI/AAAAAAAAB7w/kInK2l8gB1k/s144/DSC_0471P.jpg" /></a>That's what happens to your face when you don't get enough oxygen...<br/>From <a href="http://picasaweb.google.com/jp.elric/Me?feat=embedwebsite">Me</a></div>
-
-<p>After some time I reached the 8th station. Only to know that it was 500 more meters to the peak. I knew that these 500 meters were going to be the hardest part of my journey. The shop on the 8th station was open, so I bought a cup of warm miso soup. In this freezing wind it was like a present from the gods. The present had its price, though &mdash; 400 yen. Even the toilets were not free! </p>
-
-<div style="width: 150px" class="photo-box to-left"><a href="http://picasaweb.google.com/lh/photo/IFK9hnheaGBBRCU09pvuNQ?feat=embedwebsite"><img src="http://lh4.ggpht.com/_gfP_lT0ew7o/S5BPwYXqFDI/AAAAAAAAB70/1v6CIprW0fk/s144/DSC_0395P.jpg" /></a>In front of the Torii gate just before the summit. My shop door is open, what a shame...<br/> From <a href="http://picasaweb.google.com/jp.elric/Me?feat=embedwebsite">Me</a></div>
-
-<p>After the 8th station the real hell has started. Because of the low concentration of oxygen in the air I couldn't go fast. You hasten your step, you start to breath faster, but it doesn't help &mdash; soon you start to suffocate and have to stop. It was already around 9am, the sky had cleared so I could see many kilometers away. The scenery was literally breathtaking &mdash; just watching it made me forget to breath. I was stopping every now and then to take a picture or two. Compared to the grandeur of the scenery the troubles I was experiencing seemed totally insignificant, leaving me with nothing to do but to put one foot in front of the other. The stick I picked up in the forest was of great help.</p>
-
-<div style="width: 150px" class="photo-box to-right"><a href="http://picasaweb.google.com/lh/photo/9AS6LfEkw7UsUkOK4DdI_A?feat=embedwebsite"><img src="http://lh3.ggpht.com/_gfP_lT0ew7o/S5BQK2dDecI/AAAAAAAAB8E/_yZkTC5WkuI/s144/DSC_0483P.jpg" /></a>That's how it looks. Unfortunately, I have failed to capture the grandeur and vastness of the scenery.<br/> From <a href="http://picasaweb.google.com/jp.elric/Illustrations?feat=embedwebsite">Illustrations</a></div>
-
-<p>Halfway to the 9th station my panting caught the attention of some nice Japanese ojii-san. He cheered me up and gave me some candies that stopped my sore throat. We proceeded together and reached the summit at 11am. The climb took almost 15 hours. I guess I could have climbed much faster &mdash; after all, I had some problems only after the 8th station. </p>
-
-<p>The best journeys are the ones with special moments. Standing on the peak of mt. Fuji, mesmerized by the stunningly beautiful scenery that was laid out before me, I knew that I'll remember this moment for the rest of my life. Forest-covered mountains were everywhere, as far as I could see. Far below were Kawaguchiko and Fujiyoshida cities along with several smaller villages, and Fuji Five Lakes embraced by the emerald slopes of the nearby hills. A few hundred meters down a layer of thick mist was sliding by. I have, literally, climbed higher than the clouds.</p>
-
-<p>A long road back lied ahead.</p>
-
-<p><i>To be continued...</i></p>
-</lj-cut>]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>80</wp:post_id>
-		<wp:post_date>2010-03-03 04:18:44</wp:post_date>
-		<wp:post_date_gmt>2010-03-03 01:18:44</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>japan-chapter-iv-the-divine-retribution</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>post</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="japan"><![CDATA[Japan]]></category>
-		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_encloseme</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_encloseme</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_encloseme</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_encloseme</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>PRec</title>
-		<link>http://localhost/?page_id=264</link>
+		<link>http://elric.ru/wordpress/projects/prec/</link>
 		<pubDate>Mon, 10 May 2010 20:06:42 +0000</pubDate>
 		<dc:creator>Elric</dc:creator>
 		<guid isPermaLink="false">http://elric.ru/?page_id=264</guid>
@@ -1725,16 +1281,16 @@ It seems that some divine entity has decided that I hadn't, so I was presented w
 <hr />
 
 <div style="width: 620px" class="photo-box multi-photo to-center">
-<a href="http://elric.ru/wp-content/uploads/2010/05/P1020666.jpg"><img src="http://elric.ru/wp-content/uploads/2010/05/P1020666-150x112.jpg" alt="" title="P1020666" width="150" height="112" class="alignnone size-thumbnail wp-image-340" /></a>
-<a href="http://elric.ru/wp-content/uploads/2010/05/P1020662.jpg"><img src="http://elric.ru/wp-content/uploads/2010/05/P1020662-150x112.jpg" alt="" title="P1020662" width="150" height="112" class="alignnone size-thumbnail wp-image-339" /></a>
-<a href="http://elric.ru/wp-content/uploads/2010/05/P1020658.jpg"><img src="http://elric.ru/wp-content/uploads/2010/05/P1020658-150x112.jpg" alt="" title="P1020658" width="150" height="112" class="alignnone size-thumbnail wp-image-338" /></a>
-<a href="http://elric.ru/wp-content/uploads/2010/05/P1020655.jpg"><img src="http://elric.ru/wp-content/uploads/2010/05/P1020655-150x112.jpg" alt="" title="P1020655" width="150" height="112" class="alignnone size-thumbnail wp-image-337" /></a>
+<a href="https://wp-elric-ru.googlecode.com/svn/trunk/content/images/pano1.jpg"><img src="https://wp-elric-ru.googlecode.com/svn/trunk/content/images/pano1-150x112.jpg" alt="" title="Pano 1" width="150" height="112" class="alignnone size-thumbnail wp-image-340" /></a>
+<a href="https://wp-elric-ru.googlecode.com/svn/trunk/content/images/pano2.jpg"><img src="https://wp-elric-ru.googlecode.com/svn/trunk/content/images/pano2-150x112.jpg" alt="" title="Pano 2" width="150" height="112" class="alignnone size-thumbnail wp-image-339" /></a>
+<a href="https://wp-elric-ru.googlecode.com/svn/trunk/content/images/pano3.jpg"><img src="https://wp-elric-ru.googlecode.com/svn/trunk/content/images/pano3-150x112.jpg" alt="" title="Pano 3" width="150" height="112" class="alignnone size-thumbnail wp-image-338" /></a>
+<a href="https://wp-elric-ru.googlecode.com/svn/trunk/content/images/pano4.jpg"><img src="https://wp-elric-ru.googlecode.com/svn/trunk/content/images/pano4-150x112.jpg" alt="" title="Pano 4" width="150" height="112" class="alignnone size-thumbnail wp-image-337" /></a>
 <br/>
 Example input.
 </div>
 
 <div style="width: 300px" class="photo-box to-center">
-<a href="http://elric.ru/wp-content/uploads/2010/05/pano_result.jpg"><img src="http://elric.ru/wp-content/uploads/2010/05/pano_result-300x78.jpg" alt="" title="PRec example output" width="300" height="78" class="alignnone size-medium wp-image-277" /></a>
+<a href="https://wp-elric-ru.googlecode.com/svn/trunk/content/images/panoresult.jpg"><img src="https://wp-elric-ru.googlecode.com/svn/trunk/content/images/panoresult-300x78.jpg" alt="" title="PRec example output" width="300" height="78" class="alignnone size-medium wp-image-277" /></a>
 Example output.
 </div>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1752,7 +1308,7 @@ Example output.
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
 			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_page_template</wp:meta_key>
@@ -1764,16 +1320,16 @@ Example output.
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>is_finished</wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>icon_link</wp:meta_key>
-			<wp:meta_value><![CDATA[http://elric.ru/wp-content/uploads/2010/05/prec-e1273521896490-150x100.jpg]]></wp:meta_value>
+			<wp:meta_value><![CDATA[https://wp-elric-ru.googlecode.com/svn/trunk/content/images/prec-150x100.jpg]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>Ipp4r</title>
-		<link>http://localhost/?page_id=284</link>
+		<link>http://elric.ru/wordpress/projects/ipp4r/</link>
 		<pubDate>Mon, 10 May 2010 21:03:34 +0000</pubDate>
 		<dc:creator>Elric</dc:creator>
 		<guid isPermaLink="false">http://elric.ru/?page_id=284</guid>
@@ -1817,7 +1373,7 @@ img.filter_median(Ipp::Size.new(15,15)).save("median.jpg")
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
 			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>downloads</wp:meta_key>
@@ -1829,7 +1385,7 @@ img.filter_median(Ipp::Size.new(15,15)).save("median.jpg")
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>is_finished</wp:meta_key>
-			<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>is_serious</wp:meta_key>
@@ -1846,7 +1402,7 @@ img.filter_median(Ipp::Size.new(15,15)).save("median.jpg")
 	</item>
 	<item>
 		<title>OpenGL Demos</title>
-		<link>http://localhost/?page_id=349</link>
+		<link>http://elric.ru/wordpress/projects/opengl-demos/</link>
 		<pubDate>Thu, 02 Sep 2010 19:29:18 +0000</pubDate>
 		<dc:creator>Elric</dc:creator>
 		<guid isPermaLink="false">http://elric.ru/?page_id=349</guid>
@@ -1873,7 +1429,7 @@ img.filter_median(Ipp::Size.new(15,15)).save("median.jpg")
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
 			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>is_finished</wp:meta_key>
@@ -1889,7 +1445,7 @@ img.filter_median(Ipp::Size.new(15,15)).save("median.jpg")
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>icon_link</wp:meta_key>
-			<wp:meta_value><![CDATA[http://elric.ru/wp-content/uploads/2010/05/OpenGL-150x112.jpg]]></wp:meta_value>
+			<wp:meta_value><![CDATA[https://cmc-cg.googlecode.com/svn/trunk/_Screenshots/OpenGLs.jpg]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>project_page</wp:meta_key>
@@ -1910,7 +1466,7 @@ img.filter_median(Ipp::Size.new(15,15)).save("median.jpg")
 	</item>
 	<item>
 		<title>Decompilation Research</title>
-		<link>http://localhost/?page_id=350</link>
+		<link>http://elric.ru/wordpress/projects/decompilation-research/</link>
 		<pubDate>Tue, 11 May 2010 10:25:57 +0000</pubDate>
 		<dc:creator>Elric</dc:creator>
 		<guid isPermaLink="false">http://elric.ru/?page_id=350</guid>
@@ -1921,11 +1477,12 @@ img.filter_median(Ipp::Size.new(15,15)).save("median.jpg")
 
 <p> Our first goal was to investigate the ways profile-time information can be used to aid decompilation. We thought that variable values collected during profiling may be used to improve the quality of type reconstruction. After carrying out experiments, some of our hypotheses were rendered ineffectual, but the one regarding the differentiation of pointer and integer variables was confirmed. Our research was concluded with a publication at ICPC2009 [<a href="#ref1">1</a>]. </p>
 
-<p>Since then we have been working on decompilation of C++ programs. Our main goal is to develop a set of techniques that could be used for decompilation of assembly programs into C++. Our current results are summarized in paper [<a href="#ref2">2</a>].</p>
+<p>Since then we have been working on decompilation of C++ programs. Our main goal is to develop a set of techniques that could be used for decompilation of assembly programs into C++. Our current results are summarized in papers [<a href="#ref2">2</a>, <a href="#ref2">3</a>].</p>
 
 <p class="bibliography">
-[<a name="ref1">1</a>] K. Troshina, A. Chernov and A. Fokin. Profile-Based Type Reconstruction for Decompilation. International Conference on Program Comprehension, 2009. <a href='https://tomes-of-power.googlecode.com/svn/trunk/articles/icpc09/icpc09.pdf'>[PDF]</a><br/>
-[<a name="ref2">2</a>] A. Fokin, K. Troshina and A. Chernov. Reconstruction of Class Hierarchies for Decompilation of C++ Programs. Conference on Software Maintenance and Reengineering, 2010. <a href='https://tomes-of-power.googlecode.com/svn/trunk/articles/csmr10/csmr10.pdf'>[PDF]</a>
+[<a name="ref1">1</a>] K. Troshina, A. Chernov and A. Fokin. Profile-Based Type Reconstruction for Decompilation. International Conference on Program Comprehension, 2009. <a href='http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=5090054'>[IEEE]</a><br/>
+[<a name="ref2">2</a>] A. Fokin, K. Troshina and A. Chernov. Reconstruction of Class Hierarchies for Decompilation of C++ Programs. Conference on Software Maintenance and Reengineering, 2010. <a href='http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?tp=&arnumber=5714442'>[IEEE]</a><br/>
+[<a name="ref3">3</a>] A. Fokin, E. Derevenetc, A. Chernov and K. Troshina. SmartDec: Approaching C++ Decompilation. In Proceedings of 18th Working Conference on Reverse Engineering, 2011. <a href='http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=6079860'>[IEEE]</a><br/>
 </p>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>350</wp:post_id>
@@ -1942,7 +1499,7 @@ img.filter_median(Ipp::Size.new(15,15)).save("median.jpg")
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
 			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_page_template</wp:meta_key>
@@ -1956,10 +1513,18 @@ img.filter_median(Ipp::Size.new(15,15)).save("median.jpg")
 			<wp:meta_key>is_serious</wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>project_page</wp:meta_key>
+			<wp:meta_value><![CDATA[http://decompilation.info/]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>license</wp:meta_key>
+			<wp:meta_value><![CDATA[Proprietary]]></wp:meta_value>
+		</wp:postmeta>
 	</item>
 	<item>
 		<title>Reflections Revised</title>
-		<link>http://localhost/?page_id=383</link>
+		<link>http://elric.ru/wordpress/projects/opengl-demos/reflections-revised/</link>
 		<pubDate>Tue, 11 May 2010 13:26:49 +0000</pubDate>
 		<dc:creator>Elric</dc:creator>
 		<guid isPermaLink="false">http://elric.ru/?page_id=383</guid>
@@ -1972,7 +1537,7 @@ img.filter_median(Ipp::Size.new(15,15)).save("median.jpg")
 
 <hr/>
 
-<div class="photo-box multi-photo to-center" style="width: 460px">
+<div class="photo-box multi-photo to-center" style="width: 465px">
 <a href="https://cmc-cg.googlecode.com/svn/trunk/_Screenshots/ReflectionsRevised-4.jpg"><img src="https://cmc-cg.googlecode.com/svn/trunk/_Screenshots/ReflectionsRevised-4s.jpg" alt="" width="150" height="99" class="alignnone size-thumbnail wp-image-386" /></a>
 <a href="https://cmc-cg.googlecode.com/svn/trunk/_Screenshots/ReflectionsRevised-2.jpg"><img src="https://cmc-cg.googlecode.com/svn/trunk/_Screenshots/ReflectionsRevised-2s.jpg" alt="" width="150" height="99" class="alignnone size-thumbnail wp-image-384" /></a>
 <a href="https://cmc-cg.googlecode.com/svn/trunk/_Screenshots/ReflectionsRevised-3.jpg"><img src="https://cmc-cg.googlecode.com/svn/trunk/_Screenshots/ReflectionsRevised-3s.jpg" alt="" width="150" height="99" class="alignnone size-thumbnail wp-image-385" /></a><br/>
@@ -1993,7 +1558,7 @@ Screenshots.
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
 			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_page_template</wp:meta_key>
@@ -2030,7 +1595,7 @@ Screenshots.
 	</item>
 	<item>
 		<title>What&#039;s up, people!</title>
-		<link>http://localhost/?page_id=403</link>
+		<link>http://elric.ru/wordpress/projects/opengl-demos/whats-up-people/</link>
 		<pubDate>Tue, 11 May 2010 13:49:28 +0000</pubDate>
 		<dc:creator>Elric</dc:creator>
 		<guid isPermaLink="false">http://elric.ru/?page_id=403</guid>
@@ -2045,7 +1610,7 @@ Screenshots.
 
 <hr/>
 
-<div class="photo-box multi-photo to-center" style="width: 460px">
+<div class="photo-box multi-photo to-center" style="width: 465px">
 <a href="https://cmc-cg.googlecode.com/svn/trunk/_Screenshots/WhatsUpPeople-1.jpg"><img src="https://cmc-cg.googlecode.com/svn/trunk/_Screenshots/WhatsUpPeople-1s.jpg" alt="" width="150" height="99" class="alignnone size-thumbnail wp-image-407" /></a>
 <a href="https://cmc-cg.googlecode.com/svn/trunk/_Screenshots/WhatsUpPeople-2.jpg"><img src="https://cmc-cg.googlecode.com/svn/trunk/_Screenshots/WhatsUpPeople-2s.jpg" alt="" width="150" height="99" class="alignnone size-thumbnail wp-image-409" /></a>
 <a href="https://cmc-cg.googlecode.com/svn/trunk/_Screenshots/WhatsUpPeople-3.jpg"><img src="https://cmc-cg.googlecode.com/svn/trunk/_Screenshots/WhatsUpPeople-3s.jpg" alt="" width="150" height="99" class="alignnone size-thumbnail wp-image-408" /></a><br/>
@@ -2066,7 +1631,7 @@ Screenshots.
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
 			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_page_template</wp:meta_key>
@@ -2103,7 +1668,7 @@ Screenshots.
 	</item>
 	<item>
 		<title>ImgCmp</title>
-		<link>http://localhost/?page_id=720</link>
+		<link>http://elric.ru/wordpress/projects/imgcmp/</link>
 		<pubDate>Thu, 02 Sep 2010 18:28:17 +0000</pubDate>
 		<dc:creator>Elric</dc:creator>
 		<guid isPermaLink="false">http://elric.ru/?page_id=720</guid>
@@ -2135,7 +1700,7 @@ Screenshots.
 		<wp:is_sticky>0</wp:is_sticky>
 		<wp:postmeta>
 			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_page_template</wp:meta_key>
@@ -2161,93 +1726,6 @@ Screenshots.
 			<wp:meta_key>repository</wp:meta_key>
 			<wp:meta_value><![CDATA[https://imgcmp.googlecode.com/svn/trunk/]]></wp:meta_value>
 		</wp:postmeta>
-	</item>
-	<item>
-		<title>Japan Chapter V: The Downside of Going Up</title>
-		<link>http://localhost/?p=739</link>
-		<pubDate>Wed, 01 Dec 2010 18:14:58 +0000</pubDate>
-		<dc:creator>Elric</dc:creator>
-		<guid isPermaLink="false">http://elric.ru/?p=739</guid>
-		<description></description>
-		<content:encoded><![CDATA[<p>A short story of a long descend. No introductory text this time. </p>
-
-<!--more-->
-
-<h2>Chapter V. The Downside of Going Up.</h2>
-
-<p>I was standing close to the top of mt. Fuji, enjoying the vast scenery that was laid out before me. I felt like a tiny ant when faced with the green giants below, and it was hard to believe that I have actually climbed that far. Yet it was really cold up there, and the wind was so strong it could bowl you over. I was freezing, and my aching throat wasn't giving me any rest. It was time to go back.</p>
-
-<div style="width: 150px" class="photo-box to-right"><a href="http://picasaweb.google.com/lh/photo/e3ojgrVr6NE2dAcUpAQpCw?feat=embedwebsite"><img src="http://lh6.ggpht.com/_gfP_lT0ew7o/TPaKgorxj2I/AAAAAAAACFE/53HVG10iA34/s144/DSC_0477PC.jpg" height="48" width="144" /></a>I took no pictures on my way back. So here is a panorama taken from around the eights station instead. <br/> From <a href="http://picasaweb.google.com/jp.elric/UntitledJapan?feat=embedwebsite">Untitled Japan</a></div>
-
-<p>Descending was much easier than climbing, and, strangely enough, the wind did help. It was blowing right in my face, not letting me accelerate to the point of rolling down, so that I didn't need to slow down my steps. I was descending in the direction of <a href="http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Gotenba+City,+Shizuoka+Prefecture,+Japan&sll=36.870832,140.328369&sspn=7.406401,15.556641&ie=UTF8&hq=&hnear=Gotenba,+Shizuoka+Prefecture,+Japan&t=h&z=12">Gotenba</a>, planning to take a bus to <a href="http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Hakone+Town,+Ashigarashimo+District,+Kanagawa+Prefecture,+Japan&sll=35.267767,138.974991&sspn=0.236301,0.486145&ie=UTF8&hq=&hnear=Hakone,+Ashigarashimo+District,+Kanagawa+Prefecture,+Japan&ll=35.250946,139.046402&spn=0.23635,0.486145&t=h&z=12">Hakone</a> from there. As it happened to be, that plan was a huge mistake.</p>
-
-<p>Gotenba track was terrible beyond words. It really reminded me of my childhood. When I was a child we had a wooden slide in front of the apartment building where I lived. During winters, when the temperature drops far below zero for several months, we would pour some water over the slide, and when it freezes we would climb it, slide down, climb it again, slide down again, and go on until we couldn't move our legs any more. There were some people who wanted to do the same thing during summer, so they would sand the slide and, well, slide. That's not that funny, so I never did it. At least until September 2009. Gotenba track happened to be an enormously oversized version of that same slide, crafted by nature especially for those who didn't have enough sand sliding in their childhood. If I am ever to see a sand-covered slide in a nightmare, that's how it's going to look. </p>
-
-<p>The slide was several kilometers long and covered with a mix of sand and fine volcanic rock. At first, sliding was funny. After around 15 minutes of constant sliding it started to get quite annoying. After 30 minutes I got full sneakers of sand and pebbles and could stand it no more. My poor white socks had turned black. As well as my sneakers, which were also white at the time of departure. </p>
-
-<p>Sliding down took almost two hours. I had to stop several times to shake out all the sand and dirt that has gotten into my sneakers. On the way I have met a group of young Japanese fellows, who happened to live in <a href="http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Hachioji,+Tokyo,+Japan&sll=35.666339,139.315806&sspn=0.243222,0.486145&ie=UTF8&hq=&hnear=Hachioji,+Tokyo,+Japan&t=h&z=12">Hachiouji</a>, a place that I knew and that was pretty close to the university I've been studying at half a year before. Actually, I've met a lot of Japanese on my way back, and always tried to have at least a small conversation. We didn't talk about something specific, most of the time it was just pointless chatting. However, for me that was a Japanese practice and a chance to have some rest, so it actually wasn't that pointless. The guys who heard that I have climbed from <a href="http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Kawaguchiko+st.+village,+Minamitsuru+District,+Yamanashi+Prefecture,+Japan&sll=35.666339,139.315806&sspn=0.243222,0.486145&g=Hachioji,+Tokyo,+Japan&ie=UTF8&hq=Kawaguchiko+st.&hnear=Minamitsuru+District,+Yamanashi+Prefecture,+Japan&t=h&ll=35.466822,138.812943&spn=0.487656,0.97229&z=11&iwloc=A">Kawaguchiko</a> were stunned. I guess I overdid it a bit this time.</p>
-
-<p>What I have noticed when talking to them is that mt. Fuji somehow made all the people who climbed it to open up. Most Japanese are pretty closed persons, and it's really rare for a Japanese to initiate a conversation with a foreigner. Besides, because of being a foreigner, it's really difficult for me to relate to them and to actually understand what they are thinking and what their motives are. There it was different, and I could actually feel the change. The atmosphere there was the one of mutual trust and support, something I haven't experienced in any other part of Japan. There were no "I"'s there, but one single "We". Mt. Fuji changes people. Too bad this change doesn't last long.</p>
-
-<p>After two hours of hardcore sliding I have finally entered a forest. It was a huge relief for my legs, as I finally stood on a firm ground that didn't slip under my feet. Soon I have reached the 5th station of Gotenba trail. I already had enough climbing, so I decided to continue my journey by bus. The next bus was in one hour and I had some time to freshen myself up. I was wet with sweat again, and had no more spare clothes, so I spent some time lying on the bench enjoying the sun. It didn't last long, though, as the sun has soon disappeared behind mt. Fuji. After that I entered the local restaurant to get some hot tea in a hope that it would help my sore throat. They were serving tea for free, but only for those who order something, so I ordered some <a href="http://en.wikipedia.org/wiki/Yakisoba">yakisoba</a>. It wasn't that good because they were obviously saving money on cabbage and pork. But I was there for the tea anyway, so I drank two pots of hot tea and the pain in my throat has vanished.</p>
-
-<p>Bus to Gotenba took over an hour. I thought I'd sleep while riding, but strangely enough, I wasn't sleepy at all. Even though I've spent the previous night climbing. There was nothing interesting in Gotenba, so soon I was riding a JR Gotenba line to <a href="http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Matsuda,+Kanagawa+Prefecture,+Japan&sll=35.330532,139.01825&sspn=0.244241,0.486145&ie=UTF8&hq=&hnear=Matsuda,+Ashigarakami+District,+Kanagawa+Prefecture,+Japan&ll=35.352656,139.139442&spn=0.244174,0.486145&t=h&z=12">Matsuda</a>. Gotenba line was a really interesting one. It was pretty old, and they didn't even have the ticket checking machines at the exit. Instead, a guy from the station staff was collecting the tickets. That also meant that I was unable to use my <a href="http://www.pasmo.co.jp/en/">Pasmo</a> card. At Matsuda I switched to Odakyuu line and rode all the way to <a href="http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Hakone-Yumoto+Station,+Japan&sll=35.352656,139.139442&sspn=0.244174,0.486145&ie=UTF8&hq=&hnear=Hakoneyumoto+Station,+Japan&t=h&z=15">Hakone-Yumoto</a>.</p>
-
-<p>That's when the bad things started. I was planning to stay at the <a href="http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Tenzan+Tohji-kyo,+Ashigarashimo+District,+Kanagawa+Prefecture,+Japan&sll=35.233266,139.103532&sspn=0.030567,0.060768&g=Hakone-Yumoto+Station,+Japan&ie=UTF8&hq=Tenzan+Tohji-kyo,&hnear=Ashigarashimo+District,+Kanagawa+Prefecture,+Japan&ll=35.226831,139.088631&spn=0.118771,0.243073&t=h&z=13&iwloc=A">Tenzan</a> onsen ryokan. I walked two kilometers from the station to get there only to discover that they had no free rooms. I asked the guy at the reception whether there were any places nearby where I could stay tonight, and he recommended me to go to the tourist information center near the station and ask there. I still wonder how I have managed to hold back and not to salute him saying "Thank you, Captain!". Well, most probably he wouldn't get the jape anyway. </p>
-
-<p>The tourist information center was two kilometers away and it was already closed for sure, so I just went to explore the area in a hope of finding a place to stay. That was naive of me. There were not a single free room in any single ryokan that I have visited. And when I have finally gave up and decided to stay at a hotel, the guy at the reception said that I cannot stay as all the rooms were for two persons. That really enraged me. I was willing to pay for two persons and I was sure that it wasn't a <a href="http://en.wikipedia.org/wiki/Love_hotel">love hotel</a>. "Screw this, I'm outta here" was my thought when I left in the direction of the train station.</p>
-
-<p>The following several hours I spent walking the deserted streets of night Hakone, enjoying the refreshing breeze from the river and listening to the crying of cicadas. As I was sitting on the riverside watching the lights of the sleeping town, the bento I bought at seven-eleven seemed to be the most delicious thing I ate in the last several weeks. Finally, after almost two days on foot, I was full and dead sleepy. I thought of sleeping in the nearby park, but it was just way too creepy, with all these stone statues of ancient gods watching me. So I just put on every piece of clothing that I had and slept on the riverside near the station. Waking up with the first light felt wonderful. </p>
-
-<p>The night's mist was quickly burning away as I packed my stuff and hurried towards the station to depart with the first train.</p>]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>739</wp:post_id>
-		<wp:post_date>2010-12-01 21:14:58</wp:post_date>
-		<wp:post_date_gmt>2010-12-01 18:14:58</wp:post_date_gmt>
-		<wp:comment_status>open</wp:comment_status>
-		<wp:ping_status>open</wp:ping_status>
-		<wp:post_name>japan-chapter-v-the-downside-of-going-up</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>post</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="category" nicename="japan"><![CDATA[Japan]]></category>
-		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_encloseme</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_encloseme</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_encloseme</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_encloseme</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:comment>
-			<wp:comment_id>66</wp:comment_id>
-			<wp:comment_author><![CDATA[教授]]></wp:comment_author>
-			<wp:comment_author_email>de_profundis71@mail.ru</wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
-			<wp:comment_author_IP>95.25.155.139</wp:comment_author_IP>
-			<wp:comment_date>2010-12-06 11:23:46</wp:comment_date>
-			<wp:comment_date_gmt>2010-12-06 08:23:46</wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[本当の自分の紛失した場合はすべての現象は何も不快感をもたらすようです。心の本質を発見した場合は何が正しい道に従うことができます。]]></wp:comment_content>
-			<wp:comment_approved>0</wp:comment_approved>
-			<wp:comment_type></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-		</wp:comment>
 	</item>
 </channel>
 </rss>
