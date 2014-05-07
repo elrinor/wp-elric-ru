@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/3.4.2" created="2014-01-18 15:33" -->
+<!-- generator="WordPress/3.4.2" created="2014-05-07 19:04" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>The Temple of the Rising Sun</title>
 	<link>http://elric.ru/wordpress</link>
 	<description>where Elric dwells</description>
-	<pubDate>Sat, 18 Jan 2014 15:33:24 +0000</pubDate>
+	<pubDate>Wed, 07 May 2014 19:04:56 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://elric.ru/wordpress</wp:base_site_url>
@@ -55,9 +55,9 @@
 
 <p>For those who are still here. The most interesting things to see at the Temple of the Rising Sun are:</p>
 <ul class="v-shrink">
-	<li> My ongoing and completed <a href="projects">projects</a>;</li>
-	<li> My personal <a href="blog">blog</a>;</li>
-	<li> Information <a href="about">about me</a>.</li>
+	<li> My ongoing and completed <a href="/wordpress/projects">projects</a>;</li>
+	<li> My personal <a href="/wordpress/blog">blog</a>;</li>
+	<li> Information <a href="/wordpress/about">about me</a>.</li>
 </ul>
 
 <p>If you have any suggestions or questions, please <a href="mailto:ru.elric@gmail.com">contact me</a>.</p>]]></content:encoded>
@@ -1225,7 +1225,7 @@ Screenshots.
 
 <p>I am a skilled programmer with experience in C++ and a handful of other languages. During my years at the university I have worked part time as a programmer at Intel Students Research Lab at the department of Computational Mathematics and Cybernetics (February 2007 to April 2008) and at the Institute for System Programming of Russian Academy of Sciences (September 2007 to September 2008). At the Intel Lab I was developing a panorama stitching application in C++. At the Institute for System Programming I was working as a C++ programmer in a team developing a framework for dynamic analysis of binary code.</p>
 
-<p>I am currently involved in several research and programming projects. You can check them out at the <a href="projects">projects</a> page.</p>]]></content:encoded>
+<p>I am currently involved in several research and programming projects. You can check them out at the <a href="/wordpress/projects">projects</a> page.</p>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>666</wp:post_id>
 		<wp:post_date>2010-05-04 19:58:09</wp:post_date>
